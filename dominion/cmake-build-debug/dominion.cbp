@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="dominion"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/jackiethind/CS362/CS362-S2019/dominion/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jackiethind/CS362/CS362-S2019/dominion/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jackiethind/CS362/CS362-S2019/dominion/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jackiethind/CS362/CS362-S2019/dominion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jackiethind/CS362/CS362-S2019/dominion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/jackiethind/CS362/CS362-S2019/dominion/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jackiethind/CS362/CS362-S2019/dominion/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jackiethind/CS362/CS362-S2019/dominion/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jackiethind/CS362/CS362-S2019/dominion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jackiethind/CS362/CS362-S2019/dominion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/jackiethind/CS362/CS362-S2019/dominion/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jackiethind/CS362/CS362-S2019/dominion/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jackiethind/CS362/CS362-S2019/dominion/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jackiethind/CS362/CS362-S2019/dominion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jackiethind/CS362/CS362-S2019/dominion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="dominion">
+				<Option output="/Users/jackiethind/CS362/CS362-S2019/dominion/cmake-build-debug/dominion" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jackiethind/CS362/CS362-S2019/dominion/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/jackiethind/CS362/CS362-S2019/dominion/."/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jackiethind/CS362/CS362-S2019/dominion/cmake-build-debug/Makefile&quot;  VERBOSE=1 dominion"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jackiethind/CS362/CS362-S2019/dominion/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jackiethind/CS362/CS362-S2019/dominion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jackiethind/CS362/CS362-S2019/dominion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="dominion/fast">
+				<Option output="/Users/jackiethind/CS362/CS362-S2019/dominion/cmake-build-debug/dominion" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jackiethind/CS362/CS362-S2019/dominion/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/jackiethind/CS362/CS362-S2019/dominion/."/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jackiethind/CS362/CS362-S2019/dominion/cmake-build-debug/Makefile&quot;  VERBOSE=1 dominion/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jackiethind/CS362/CS362-S2019/dominion/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jackiethind/CS362/CS362-S2019/dominion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jackiethind/CS362/CS362-S2019/dominion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/jackiethind/CS362/CS362-S2019/dominion/badTestDrawCard.c">
+			<Option target="dominion"/>
+		</Unit>
+		<Unit filename="/Users/jackiethind/CS362/CS362-S2019/dominion/betterTestDrawCard.c">
+			<Option target="dominion"/>
+		</Unit>
+		<Unit filename="/Users/jackiethind/CS362/CS362-S2019/dominion/cardTest1.c">
+			<Option target="dominion"/>
+		</Unit>
+		<Unit filename="/Users/jackiethind/CS362/CS362-S2019/dominion/cardTest2.c">
+			<Option target="dominion"/>
+		</Unit>
+		<Unit filename="/Users/jackiethind/CS362/CS362-S2019/dominion/cardTest3.c">
+			<Option target="dominion"/>
+		</Unit>
+		<Unit filename="/Users/jackiethind/CS362/CS362-S2019/dominion/cardTest4.c">
+			<Option target="dominion"/>
+		</Unit>
+		<Unit filename="/Users/jackiethind/CS362/CS362-S2019/dominion/dominion.c">
+			<Option target="dominion"/>
+		</Unit>
+		<Unit filename="/Users/jackiethind/CS362/CS362-S2019/dominion/dominion.h">
+			<Option target="dominion"/>
+		</Unit>
+		<Unit filename="/Users/jackiethind/CS362/CS362-S2019/dominion/dominion_helpers.h">
+			<Option target="dominion"/>
+		</Unit>
+		<Unit filename="/Users/jackiethind/CS362/CS362-S2019/dominion/interface.c">
+			<Option target="dominion"/>
+		</Unit>
+		<Unit filename="/Users/jackiethind/CS362/CS362-S2019/dominion/interface.h">
+			<Option target="dominion"/>
+		</Unit>
+		<Unit filename="/Users/jackiethind/CS362/CS362-S2019/dominion/playdom.c">
+			<Option target="dominion"/>
+		</Unit>
+		<Unit filename="/Users/jackiethind/CS362/CS362-S2019/dominion/player.c">
+			<Option target="dominion"/>
+		</Unit>
+		<Unit filename="/Users/jackiethind/CS362/CS362-S2019/dominion/rngs.c">
+			<Option target="dominion"/>
+		</Unit>
+		<Unit filename="/Users/jackiethind/CS362/CS362-S2019/dominion/rngs.h">
+			<Option target="dominion"/>
+		</Unit>
+		<Unit filename="/Users/jackiethind/CS362/CS362-S2019/dominion/rt.c">
+			<Option target="dominion"/>
+		</Unit>
+		<Unit filename="/Users/jackiethind/CS362/CS362-S2019/dominion/supplyTest.c">
+			<Option target="dominion"/>
+		</Unit>
+		<Unit filename="/Users/jackiethind/CS362/CS362-S2019/dominion/testBuyCard.c">
+			<Option target="dominion"/>
+		</Unit>
+		<Unit filename="/Users/jackiethind/CS362/CS362-S2019/dominion/testDrawCard.c">
+			<Option target="dominion"/>
+		</Unit>
+		<Unit filename="/Users/jackiethind/CS362/CS362-S2019/dominion/testInit.c">
+			<Option target="dominion"/>
+		</Unit>
+		<Unit filename="/Users/jackiethind/CS362/CS362-S2019/dominion/testShuffle.c">
+			<Option target="dominion"/>
+		</Unit>
+		<Unit filename="/Users/jackiethind/CS362/CS362-S2019/dominion/unittest1.c">
+			<Option target="dominion"/>
+		</Unit>
+		<Unit filename="/Users/jackiethind/CS362/CS362-S2019/dominion/unittest2.c">
+			<Option target="dominion"/>
+		</Unit>
+		<Unit filename="/Users/jackiethind/CS362/CS362-S2019/dominion/unittest3.c">
+			<Option target="dominion"/>
+		</Unit>
+		<Unit filename="/Users/jackiethind/CS362/CS362-S2019/dominion/unittest4.c">
+			<Option target="dominion"/>
+		</Unit>
+		<Unit filename="/Users/jackiethind/CS362/CS362-S2019/dominion/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
