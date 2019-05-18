@@ -12,6 +12,7 @@ set(CMAKE_DEPENDS_CHECK_C
   "/Users/jackiethind/CS362/CS362-S2019/dominion/cardTest4.c" "/Users/jackiethind/CS362/CS362-S2019/dominion/cmake-build-debug/CMakeFiles/dominion.dir/cardTest4.c.o"
   "/Users/jackiethind/CS362/CS362-S2019/dominion/dominion.c" "/Users/jackiethind/CS362/CS362-S2019/dominion/cmake-build-debug/CMakeFiles/dominion.dir/dominion.c.o"
   "/Users/jackiethind/CS362/CS362-S2019/dominion/interface.c" "/Users/jackiethind/CS362/CS362-S2019/dominion/cmake-build-debug/CMakeFiles/dominion.dir/interface.c.o"
+  "/Users/jackiethind/CS362/CS362-S2019/dominion/midterm.c" "/Users/jackiethind/CS362/CS362-S2019/dominion/cmake-build-debug/CMakeFiles/dominion.dir/midterm.c.o"
   "/Users/jackiethind/CS362/CS362-S2019/dominion/playdom.c" "/Users/jackiethind/CS362/CS362-S2019/dominion/cmake-build-debug/CMakeFiles/dominion.dir/playdom.c.o"
   "/Users/jackiethind/CS362/CS362-S2019/dominion/player.c" "/Users/jackiethind/CS362/CS362-S2019/dominion/cmake-build-debug/CMakeFiles/dominion.dir/player.c.o"
   "/Users/jackiethind/CS362/CS362-S2019/dominion/rngs.c" "/Users/jackiethind/CS362/CS362-S2019/dominion/cmake-build-debug/CMakeFiles/dominion.dir/rngs.c.o"

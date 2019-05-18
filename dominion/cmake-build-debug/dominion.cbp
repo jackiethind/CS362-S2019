@@ -113,6 +113,9 @@
 		<Unit filename="/Users/jackiethind/CS362/CS362-S2019/dominion/interface.h">
 			<Option target="dominion"/>
 		</Unit>
+		<Unit filename="/Users/jackiethind/CS362/CS362-S2019/dominion/midterm.c">
+			<Option target="dominion"/>
+		</Unit>
 		<Unit filename="/Users/jackiethind/CS362/CS362-S2019/dominion/playdom.c">
 			<Option target="dominion"/>
 		</Unit>

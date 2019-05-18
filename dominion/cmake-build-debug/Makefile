@@ -339,6 +339,33 @@ interface.c.s:
 	$(MAKE) -f CMakeFiles/dominion.dir/build.make CMakeFiles/dominion.dir/interface.c.s
 .PHONY : interface.c.s
 
+midterm.o: midterm.c.o
+
+.PHONY : midterm.o
+
+# target to build an object file
+midterm.c.o:
+	$(MAKE) -f CMakeFiles/dominion.dir/build.make CMakeFiles/dominion.dir/midterm.c.o
+.PHONY : midterm.c.o
+
+midterm.i: midterm.c.i
+
+.PHONY : midterm.i
+
+# target to preprocess a source file
+midterm.c.i:
+	$(MAKE) -f CMakeFiles/dominion.dir/build.make CMakeFiles/dominion.dir/midterm.c.i
+.PHONY : midterm.c.i
+
+midterm.s: midterm.c.s
+
+.PHONY : midterm.s
+
+# target to generate assembly for a file
+midterm.c.s:
+	$(MAKE) -f CMakeFiles/dominion.dir/build.make CMakeFiles/dominion.dir/midterm.c.s
+.PHONY : midterm.c.s
+
 playdom.o: playdom.c.o
 
 .PHONY : playdom.o
@@ -723,6 +750,9 @@ help:
 	@echo "... interface.o"
 	@echo "... interface.i"
 	@echo "... interface.s"
+	@echo "... midterm.o"
+	@echo "... midterm.i"
+	@echo "... midterm.s"
 	@echo "... playdom.o"
 	@echo "... playdom.i"
 	@echo "... playdom.s"
