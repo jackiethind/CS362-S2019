@@ -102,7 +102,7 @@ int main() {
     printf("Random Tests\n");
 
     // begin by randomizing all parameters for the adventurer card function
-    for (int i = 0; i < 100; i++) {
+    for (int i = 0; i < 800; i++) {
 
         int numPlayers = rand() % 3 + 2;
         initializeGame(numPlayers, k, rand(), &G);
