@@ -339,33 +339,6 @@ interface.c.s:
 	$(MAKE) -f CMakeFiles/dominion.dir/build.make CMakeFiles/dominion.dir/interface.c.s
 .PHONY : interface.c.s
 
-midterm.o: midterm.c.o
-
-.PHONY : midterm.o
-
-# target to build an object file
-midterm.c.o:
-	$(MAKE) -f CMakeFiles/dominion.dir/build.make CMakeFiles/dominion.dir/midterm.c.o
-.PHONY : midterm.c.o
-
-midterm.i: midterm.c.i
-
-.PHONY : midterm.i
-
-# target to preprocess a source file
-midterm.c.i:
-	$(MAKE) -f CMakeFiles/dominion.dir/build.make CMakeFiles/dominion.dir/midterm.c.i
-.PHONY : midterm.c.i
-
-midterm.s: midterm.c.s
-
-.PHONY : midterm.s
-
-# target to generate assembly for a file
-midterm.c.s:
-	$(MAKE) -f CMakeFiles/dominion.dir/build.make CMakeFiles/dominion.dir/midterm.c.s
-.PHONY : midterm.c.s
-
 playdom.o: playdom.c.o
 
 .PHONY : playdom.o
@@ -419,6 +392,87 @@ player.s: player.c.s
 player.c.s:
 	$(MAKE) -f CMakeFiles/dominion.dir/build.make CMakeFiles/dominion.dir/player.c.s
 .PHONY : player.c.s
+
+randomtestadventurer.o: randomtestadventurer.c.o
+
+.PHONY : randomtestadventurer.o
+
+# target to build an object file
+randomtestadventurer.c.o:
+	$(MAKE) -f CMakeFiles/dominion.dir/build.make CMakeFiles/dominion.dir/randomtestadventurer.c.o
+.PHONY : randomtestadventurer.c.o
+
+randomtestadventurer.i: randomtestadventurer.c.i
+
+.PHONY : randomtestadventurer.i
+
+# target to preprocess a source file
+randomtestadventurer.c.i:
+	$(MAKE) -f CMakeFiles/dominion.dir/build.make CMakeFiles/dominion.dir/randomtestadventurer.c.i
+.PHONY : randomtestadventurer.c.i
+
+randomtestadventurer.s: randomtestadventurer.c.s
+
+.PHONY : randomtestadventurer.s
+
+# target to generate assembly for a file
+randomtestadventurer.c.s:
+	$(MAKE) -f CMakeFiles/dominion.dir/build.make CMakeFiles/dominion.dir/randomtestadventurer.c.s
+.PHONY : randomtestadventurer.c.s
+
+randomtestcard1.o: randomtestcard1.c.o
+
+.PHONY : randomtestcard1.o
+
+# target to build an object file
+randomtestcard1.c.o:
+	$(MAKE) -f CMakeFiles/dominion.dir/build.make CMakeFiles/dominion.dir/randomtestcard1.c.o
+.PHONY : randomtestcard1.c.o
+
+randomtestcard1.i: randomtestcard1.c.i
+
+.PHONY : randomtestcard1.i
+
+# target to preprocess a source file
+randomtestcard1.c.i:
+	$(MAKE) -f CMakeFiles/dominion.dir/build.make CMakeFiles/dominion.dir/randomtestcard1.c.i
+.PHONY : randomtestcard1.c.i
+
+randomtestcard1.s: randomtestcard1.c.s
+
+.PHONY : randomtestcard1.s
+
+# target to generate assembly for a file
+randomtestcard1.c.s:
+	$(MAKE) -f CMakeFiles/dominion.dir/build.make CMakeFiles/dominion.dir/randomtestcard1.c.s
+.PHONY : randomtestcard1.c.s
+
+randomtestcard2.o: randomtestcard2.c.o
+
+.PHONY : randomtestcard2.o
+
+# target to build an object file
+randomtestcard2.c.o:
+	$(MAKE) -f CMakeFiles/dominion.dir/build.make CMakeFiles/dominion.dir/randomtestcard2.c.o
+.PHONY : randomtestcard2.c.o
+
+randomtestcard2.i: randomtestcard2.c.i
+
+.PHONY : randomtestcard2.i
+
+# target to preprocess a source file
+randomtestcard2.c.i:
+	$(MAKE) -f CMakeFiles/dominion.dir/build.make CMakeFiles/dominion.dir/randomtestcard2.c.i
+.PHONY : randomtestcard2.c.i
+
+randomtestcard2.s: randomtestcard2.c.s
+
+.PHONY : randomtestcard2.s
+
+# target to generate assembly for a file
+randomtestcard2.c.s:
+	$(MAKE) -f CMakeFiles/dominion.dir/build.make CMakeFiles/dominion.dir/randomtestcard2.c.s
+.PHONY : randomtestcard2.c.s
 
 rngs.o: rngs.c.o
 
@@ -750,15 +804,21 @@ help:
 	@echo "... interface.o"
 	@echo "... interface.i"
 	@echo "... interface.s"
-	@echo "... midterm.o"
-	@echo "... midterm.i"
-	@echo "... midterm.s"
 	@echo "... playdom.o"
 	@echo "... playdom.i"
 	@echo "... playdom.s"
 	@echo "... player.o"
 	@echo "... player.i"
 	@echo "... player.s"
+	@echo "... randomtestadventurer.o"
+	@echo "... randomtestadventurer.i"
+	@echo "... randomtestadventurer.s"
+	@echo "... randomtestcard1.o"
+	@echo "... randomtestcard1.i"
+	@echo "... randomtestcard1.s"
+	@echo "... randomtestcard2.o"
+	@echo "... randomtestcard2.i"
+	@echo "... randomtestcard2.s"
 	@echo "... rngs.o"
 	@echo "... rngs.i"
 	@echo "... rngs.s"

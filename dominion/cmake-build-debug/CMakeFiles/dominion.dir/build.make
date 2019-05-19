@@ -561,28 +561,76 @@ CMakeFiles/dominion.dir/cardTest4.c.o.provides: CMakeFiles/dominion.dir/cardTest
 CMakeFiles/dominion.dir/cardTest4.c.o.provides.build: CMakeFiles/dominion.dir/cardTest4.c.o
 
 
-CMakeFiles/dominion.dir/midterm.c.o: CMakeFiles/dominion.dir/flags.make
-CMakeFiles/dominion.dir/midterm.c.o: ../midterm.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/jackiethind/CS362/CS362-S2019/dominion/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building C object CMakeFiles/dominion.dir/midterm.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/dominion.dir/midterm.c.o   -c /Users/jackiethind/CS362/CS362-S2019/dominion/midterm.c
+CMakeFiles/dominion.dir/randomtestadventurer.c.o: CMakeFiles/dominion.dir/flags.make
+CMakeFiles/dominion.dir/randomtestadventurer.c.o: ../randomtestadventurer.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/jackiethind/CS362/CS362-S2019/dominion/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building C object CMakeFiles/dominion.dir/randomtestadventurer.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/dominion.dir/randomtestadventurer.c.o   -c /Users/jackiethind/CS362/CS362-S2019/dominion/randomtestadventurer.c
 
-CMakeFiles/dominion.dir/midterm.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/dominion.dir/midterm.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jackiethind/CS362/CS362-S2019/dominion/midterm.c > CMakeFiles/dominion.dir/midterm.c.i
+CMakeFiles/dominion.dir/randomtestadventurer.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/dominion.dir/randomtestadventurer.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jackiethind/CS362/CS362-S2019/dominion/randomtestadventurer.c > CMakeFiles/dominion.dir/randomtestadventurer.c.i
 
-CMakeFiles/dominion.dir/midterm.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/dominion.dir/midterm.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jackiethind/CS362/CS362-S2019/dominion/midterm.c -o CMakeFiles/dominion.dir/midterm.c.s
+CMakeFiles/dominion.dir/randomtestadventurer.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/dominion.dir/randomtestadventurer.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jackiethind/CS362/CS362-S2019/dominion/randomtestadventurer.c -o CMakeFiles/dominion.dir/randomtestadventurer.c.s
 
-CMakeFiles/dominion.dir/midterm.c.o.requires:
+CMakeFiles/dominion.dir/randomtestadventurer.c.o.requires:
 
-.PHONY : CMakeFiles/dominion.dir/midterm.c.o.requires
+.PHONY : CMakeFiles/dominion.dir/randomtestadventurer.c.o.requires
 
-CMakeFiles/dominion.dir/midterm.c.o.provides: CMakeFiles/dominion.dir/midterm.c.o.requires
-	$(MAKE) -f CMakeFiles/dominion.dir/build.make CMakeFiles/dominion.dir/midterm.c.o.provides.build
-.PHONY : CMakeFiles/dominion.dir/midterm.c.o.provides
+CMakeFiles/dominion.dir/randomtestadventurer.c.o.provides: CMakeFiles/dominion.dir/randomtestadventurer.c.o.requires
+	$(MAKE) -f CMakeFiles/dominion.dir/build.make CMakeFiles/dominion.dir/randomtestadventurer.c.o.provides.build
+.PHONY : CMakeFiles/dominion.dir/randomtestadventurer.c.o.provides
 
-CMakeFiles/dominion.dir/midterm.c.o.provides.build: CMakeFiles/dominion.dir/midterm.c.o
+CMakeFiles/dominion.dir/randomtestadventurer.c.o.provides.build: CMakeFiles/dominion.dir/randomtestadventurer.c.o
+
+
+CMakeFiles/dominion.dir/randomtestcard1.c.o: CMakeFiles/dominion.dir/flags.make
+CMakeFiles/dominion.dir/randomtestcard1.c.o: ../randomtestcard1.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/jackiethind/CS362/CS362-S2019/dominion/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building C object CMakeFiles/dominion.dir/randomtestcard1.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/dominion.dir/randomtestcard1.c.o   -c /Users/jackiethind/CS362/CS362-S2019/dominion/randomtestcard1.c
+
+CMakeFiles/dominion.dir/randomtestcard1.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/dominion.dir/randomtestcard1.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jackiethind/CS362/CS362-S2019/dominion/randomtestcard1.c > CMakeFiles/dominion.dir/randomtestcard1.c.i
+
+CMakeFiles/dominion.dir/randomtestcard1.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/dominion.dir/randomtestcard1.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jackiethind/CS362/CS362-S2019/dominion/randomtestcard1.c -o CMakeFiles/dominion.dir/randomtestcard1.c.s
+
+CMakeFiles/dominion.dir/randomtestcard1.c.o.requires:
+
+.PHONY : CMakeFiles/dominion.dir/randomtestcard1.c.o.requires
+
+CMakeFiles/dominion.dir/randomtestcard1.c.o.provides: CMakeFiles/dominion.dir/randomtestcard1.c.o.requires
+	$(MAKE) -f CMakeFiles/dominion.dir/build.make CMakeFiles/dominion.dir/randomtestcard1.c.o.provides.build
+.PHONY : CMakeFiles/dominion.dir/randomtestcard1.c.o.provides
+
+CMakeFiles/dominion.dir/randomtestcard1.c.o.provides.build: CMakeFiles/dominion.dir/randomtestcard1.c.o
+
+
+CMakeFiles/dominion.dir/randomtestcard2.c.o: CMakeFiles/dominion.dir/flags.make
+CMakeFiles/dominion.dir/randomtestcard2.c.o: ../randomtestcard2.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/jackiethind/CS362/CS362-S2019/dominion/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building C object CMakeFiles/dominion.dir/randomtestcard2.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/dominion.dir/randomtestcard2.c.o   -c /Users/jackiethind/CS362/CS362-S2019/dominion/randomtestcard2.c
+
+CMakeFiles/dominion.dir/randomtestcard2.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/dominion.dir/randomtestcard2.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jackiethind/CS362/CS362-S2019/dominion/randomtestcard2.c > CMakeFiles/dominion.dir/randomtestcard2.c.i
+
+CMakeFiles/dominion.dir/randomtestcard2.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/dominion.dir/randomtestcard2.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jackiethind/CS362/CS362-S2019/dominion/randomtestcard2.c -o CMakeFiles/dominion.dir/randomtestcard2.c.s
+
+CMakeFiles/dominion.dir/randomtestcard2.c.o.requires:
+
+.PHONY : CMakeFiles/dominion.dir/randomtestcard2.c.o.requires
+
+CMakeFiles/dominion.dir/randomtestcard2.c.o.provides: CMakeFiles/dominion.dir/randomtestcard2.c.o.requires
+	$(MAKE) -f CMakeFiles/dominion.dir/build.make CMakeFiles/dominion.dir/randomtestcard2.c.o.provides.build
+.PHONY : CMakeFiles/dominion.dir/randomtestcard2.c.o.provides
+
+CMakeFiles/dominion.dir/randomtestcard2.c.o.provides.build: CMakeFiles/dominion.dir/randomtestcard2.c.o
 
 
 # Object files for target dominion
@@ -608,7 +656,9 @@ dominion_OBJECTS = \
 "CMakeFiles/dominion.dir/cardTest2.c.o" \
 "CMakeFiles/dominion.dir/cardTest3.c.o" \
 "CMakeFiles/dominion.dir/cardTest4.c.o" \
-"CMakeFiles/dominion.dir/midterm.c.o"
+"CMakeFiles/dominion.dir/randomtestadventurer.c.o" \
+"CMakeFiles/dominion.dir/randomtestcard1.c.o" \
+"CMakeFiles/dominion.dir/randomtestcard2.c.o"
 
 # External object files for target dominion
 dominion_EXTERNAL_OBJECTS =
@@ -634,10 +684,12 @@ dominion: CMakeFiles/dominion.dir/cardTest1.c.o
 dominion: CMakeFiles/dominion.dir/cardTest2.c.o
 dominion: CMakeFiles/dominion.dir/cardTest3.c.o
 dominion: CMakeFiles/dominion.dir/cardTest4.c.o
-dominion: CMakeFiles/dominion.dir/midterm.c.o
+dominion: CMakeFiles/dominion.dir/randomtestadventurer.c.o
+dominion: CMakeFiles/dominion.dir/randomtestcard1.c.o
+dominion: CMakeFiles/dominion.dir/randomtestcard2.c.o
 dominion: CMakeFiles/dominion.dir/build.make
 dominion: CMakeFiles/dominion.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/jackiethind/CS362/CS362-S2019/dominion/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Linking C executable dominion"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/jackiethind/CS362/CS362-S2019/dominion/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Linking C executable dominion"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/dominion.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -666,7 +718,9 @@ CMakeFiles/dominion.dir/requires: CMakeFiles/dominion.dir/cardTest1.c.o.requires
 CMakeFiles/dominion.dir/requires: CMakeFiles/dominion.dir/cardTest2.c.o.requires
 CMakeFiles/dominion.dir/requires: CMakeFiles/dominion.dir/cardTest3.c.o.requires
 CMakeFiles/dominion.dir/requires: CMakeFiles/dominion.dir/cardTest4.c.o.requires
-CMakeFiles/dominion.dir/requires: CMakeFiles/dominion.dir/midterm.c.o.requires
+CMakeFiles/dominion.dir/requires: CMakeFiles/dominion.dir/randomtestadventurer.c.o.requires
+CMakeFiles/dominion.dir/requires: CMakeFiles/dominion.dir/randomtestcard1.c.o.requires
+CMakeFiles/dominion.dir/requires: CMakeFiles/dominion.dir/randomtestcard2.c.o.requires
 
 .PHONY : CMakeFiles/dominion.dir/requires
 

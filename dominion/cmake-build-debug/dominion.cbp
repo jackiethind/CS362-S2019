@@ -113,13 +113,19 @@
 		<Unit filename="/Users/jackiethind/CS362/CS362-S2019/dominion/interface.h">
 			<Option target="dominion"/>
 		</Unit>
-		<Unit filename="/Users/jackiethind/CS362/CS362-S2019/dominion/midterm.c">
-			<Option target="dominion"/>
-		</Unit>
 		<Unit filename="/Users/jackiethind/CS362/CS362-S2019/dominion/playdom.c">
 			<Option target="dominion"/>
 		</Unit>
 		<Unit filename="/Users/jackiethind/CS362/CS362-S2019/dominion/player.c">
+			<Option target="dominion"/>
+		</Unit>
+		<Unit filename="/Users/jackiethind/CS362/CS362-S2019/dominion/randomtestadventurer.c">
+			<Option target="dominion"/>
+		</Unit>
+		<Unit filename="/Users/jackiethind/CS362/CS362-S2019/dominion/randomtestcard1.c">
+			<Option target="dominion"/>
+		</Unit>
+		<Unit filename="/Users/jackiethind/CS362/CS362-S2019/dominion/randomtestcard2.c">
 			<Option target="dominion"/>
 		</Unit>
 		<Unit filename="/Users/jackiethind/CS362/CS362-S2019/dominion/rngs.c">

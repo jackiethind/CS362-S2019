@@ -26,4 +26,4 @@ add_executable(dominion
         unittest1.c
         unittest2.c
         unittest3.c
-        unittest4.c cardTest1.c cardTest2.c cardTest3.c cardTest4.c)
+        unittest4.c cardTest1.c cardTest2.c cardTest3.c cardTest4.c randomtestadventurer.c randomtestcard1.c randomtestcard2.c)

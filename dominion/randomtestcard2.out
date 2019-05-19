@@ -1,0 +1,4955 @@
+randomtestcard2.c:
+----------------- Testing Card: smithy ----------------
+Random Tests
+TEST SUCCEEDED: actual: 0, expected: 0 
+estate unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+duchy unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+province unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+gardens unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+curse unchanged test
+TEST SUCCEEDED: actual: 20, expected: 20 
+smithy unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+adventurer unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+embargo unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+village unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+minion unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+mine unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+cutpurse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+sea hag unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+tribute unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+council room unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+other player hand count = 60, expected = 60
+other player deck count = 28, expected = 28
+other player discard count = 380, expected = 380
+TEST SUCCEEDED: actual: 28, expected: 28 
+TEST SUCCEEDED: actual: 380, expected: 380 
+TEST SUCCEEDED: actual: 60, expected: 60 
+other player hand count = 87, expected = 87
+other player deck count = 278, expected = 278
+other player discard count = 35, expected = 35
+TEST SUCCEEDED: actual: 278, expected: 278 
+TEST SUCCEEDED: actual: 35, expected: 35 
+TEST SUCCEEDED: actual: 87, expected: 87 
+Current player state change check
+hand count = 77, expected = 77
+deck count = 198, expected = 198
+TEST SUCCEEDED: actual: 77, expected: 77 
+TEST SUCCEEDED: actual: 198, expected: 198 
+TEST SUCCEEDED: actual: 0, expected: 0 
+estate unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+duchy unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+province unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+gardens unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+curse unchanged test
+TEST SUCCEEDED: actual: 20, expected: 20 
+smithy unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+adventurer unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+embargo unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+village unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+minion unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+mine unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+cutpurse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+sea hag unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+tribute unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+council room unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+other player hand count = 90, expected = 90
+other player deck count = 86, expected = 86
+other player discard count = 77, expected = 77
+TEST SUCCEEDED: actual: 86, expected: 86 
+TEST SUCCEEDED: actual: 77, expected: 77 
+TEST SUCCEEDED: actual: 90, expected: 90 
+Current player state change check
+hand count = 107, expected = 107
+deck count = 118, expected = 118
+TEST SUCCEEDED: actual: 107, expected: 107 
+TEST SUCCEEDED: actual: 118, expected: 118 
+other player hand count = 128, expected = 128
+other player deck count = 235, expected = 235
+other player discard count = 117, expected = 117
+TEST SUCCEEDED: actual: 235, expected: 235 
+TEST SUCCEEDED: actual: 117, expected: 117 
+TEST SUCCEEDED: actual: 128, expected: 128 
+TEST SUCCEEDED: actual: 0, expected: 0 
+estate unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+duchy unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+province unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+gardens unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+curse unchanged test
+TEST SUCCEEDED: actual: 30, expected: 30 
+smithy unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+adventurer unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+embargo unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+village unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+minion unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+mine unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+cutpurse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+sea hag unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+tribute unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+council room unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+Current player state change check
+hand count = 142, expected = 142
+deck count = 195, expected = 195
+TEST SUCCEEDED: actual: 142, expected: 142 
+TEST SUCCEEDED: actual: 195, expected: 195 
+other player hand count = 228, expected = 228
+other player deck count = 57, expected = 57
+other player discard count = 49, expected = 49
+TEST SUCCEEDED: actual: 57, expected: 57 
+TEST SUCCEEDED: actual: 49, expected: 49 
+TEST SUCCEEDED: actual: 228, expected: 228 
+other player hand count = 152, expected = 152
+other player deck count = 139, expected = 139
+other player discard count = 112, expected = 112
+TEST SUCCEEDED: actual: 139, expected: 139 
+TEST SUCCEEDED: actual: 112, expected: 112 
+TEST SUCCEEDED: actual: 152, expected: 152 
+other player hand count = 375, expected = 375
+other player deck count = 41, expected = 41
+other player discard count = 79, expected = 79
+TEST SUCCEEDED: actual: 41, expected: 41 
+TEST SUCCEEDED: actual: 79, expected: 79 
+TEST SUCCEEDED: actual: 375, expected: 375 
+TEST SUCCEEDED: actual: 0, expected: 0 
+estate unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+duchy unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+province unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+gardens unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+curse unchanged test
+TEST SUCCEEDED: actual: 20, expected: 20 
+smithy unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+adventurer unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+embargo unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+village unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+minion unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+mine unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+cutpurse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+sea hag unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+tribute unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+council room unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+other player hand count = 115, expected = 115
+other player deck count = 179, expected = 179
+other player discard count = 138, expected = 138
+TEST SUCCEEDED: actual: 179, expected: 179 
+TEST SUCCEEDED: actual: 138, expected: 138 
+TEST SUCCEEDED: actual: 115, expected: 115 
+Current player state change check
+hand count = 78, expected = 78
+deck count = 111, expected = 111
+TEST SUCCEEDED: actual: 78, expected: 78 
+TEST SUCCEEDED: actual: 111, expected: 111 
+other player hand count = 244, expected = 244
+other player deck count = 128, expected = 128
+other player discard count = 98, expected = 98
+TEST SUCCEEDED: actual: 128, expected: 128 
+TEST SUCCEEDED: actual: 98, expected: 98 
+TEST SUCCEEDED: actual: 244, expected: 244 
+TEST SUCCEEDED: actual: 0, expected: 0 
+estate unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+duchy unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+province unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+gardens unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+curse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+smithy unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+adventurer unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+embargo unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+village unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+minion unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+mine unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+cutpurse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+sea hag unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+tribute unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+council room unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+other player hand count = 237, expected = 237
+other player deck count = 142, expected = 142
+other player discard count = 115, expected = 115
+TEST SUCCEEDED: actual: 142, expected: 142 
+TEST SUCCEEDED: actual: 115, expected: 115 
+TEST SUCCEEDED: actual: 237, expected: 237 
+Current player state change check
+hand count = 4, expected = 4
+deck count = 345, expected = 345
+TEST SUCCEEDED: actual: 4, expected: 4 
+TEST SUCCEEDED: actual: 345, expected: 345 
+TEST SUCCEEDED: actual: 0, expected: 0 
+estate unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+duchy unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+province unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+gardens unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+curse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+smithy unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+adventurer unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+embargo unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+village unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+minion unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+mine unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+cutpurse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+sea hag unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+tribute unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+council room unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+other player hand count = 62, expected = 62
+other player deck count = 192, expected = 192
+other player discard count = 89, expected = 89
+TEST SUCCEEDED: actual: 192, expected: 192 
+TEST SUCCEEDED: actual: 89, expected: 89 
+TEST SUCCEEDED: actual: 62, expected: 62 
+Current player state change check
+hand count = 48, expected = 48
+deck count = 261, expected = 261
+TEST SUCCEEDED: actual: 48, expected: 48 
+TEST SUCCEEDED: actual: 261, expected: 261 
+TEST SUCCEEDED: actual: 0, expected: 0 
+estate unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+duchy unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+province unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+gardens unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+curse unchanged test
+TEST SUCCEEDED: actual: 20, expected: 20 
+smithy unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+adventurer unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+embargo unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+village unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+minion unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+mine unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+cutpurse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+sea hag unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+tribute unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+council room unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+other player hand count = 109, expected = 109
+other player deck count = 282, expected = 282
+other player discard count = 103, expected = 103
+TEST SUCCEEDED: actual: 282, expected: 282 
+TEST SUCCEEDED: actual: 103, expected: 103 
+TEST SUCCEEDED: actual: 109, expected: 109 
+Current player state change check
+hand count = 21, expected = 21
+deck count = 128, expected = 128
+TEST SUCCEEDED: actual: 21, expected: 21 
+TEST SUCCEEDED: actual: 128, expected: 128 
+other player hand count = 316, expected = 316
+other player deck count = 94, expected = 94
+other player discard count = 67, expected = 67
+TEST SUCCEEDED: actual: 94, expected: 94 
+TEST SUCCEEDED: actual: 67, expected: 67 
+TEST SUCCEEDED: actual: 316, expected: 316 
+TEST SUCCEEDED: actual: 0, expected: 0 
+estate unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+duchy unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+province unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+gardens unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+curse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+smithy unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+adventurer unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+embargo unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+village unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+minion unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+mine unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+cutpurse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+sea hag unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+tribute unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+council room unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+Current player state change check
+hand count = 150, expected = 150
+deck count = 160, expected = 160
+TEST SUCCEEDED: actual: 150, expected: 150 
+TEST SUCCEEDED: actual: 160, expected: 160 
+other player hand count = 0, expected = 0
+other player deck count = 107, expected = 107
+other player discard count = 379, expected = 379
+TEST SUCCEEDED: actual: 107, expected: 107 
+TEST SUCCEEDED: actual: 379, expected: 379 
+TEST SUCCEEDED: actual: 0, expected: 0 
+TEST SUCCEEDED: actual: 0, expected: 0 
+estate unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+duchy unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+province unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+gardens unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+curse unchanged test
+TEST SUCCEEDED: actual: 20, expected: 20 
+smithy unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+adventurer unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+embargo unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+village unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+minion unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+mine unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+cutpurse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+sea hag unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+tribute unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+council room unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+Current player state change check
+hand count = 77, expected = 77
+deck count = 254, expected = 254
+TEST SUCCEEDED: actual: 77, expected: 77 
+TEST SUCCEEDED: actual: 254, expected: 254 
+other player hand count = 16, expected = 16
+other player deck count = 452, expected = 452
+other player discard count = 25, expected = 25
+TEST SUCCEEDED: actual: 452, expected: 452 
+TEST SUCCEEDED: actual: 25, expected: 25 
+TEST SUCCEEDED: actual: 16, expected: 16 
+other player hand count = 13, expected = 13
+other player deck count = 299, expected = 299
+other player discard count = 37, expected = 37
+TEST SUCCEEDED: actual: 299, expected: 299 
+TEST SUCCEEDED: actual: 37, expected: 37 
+TEST SUCCEEDED: actual: 13, expected: 13 
+TEST SUCCEEDED: actual: 0, expected: 0 
+estate unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+duchy unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+province unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+gardens unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+curse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+smithy unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+adventurer unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+embargo unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+village unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+minion unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+mine unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+cutpurse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+sea hag unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+tribute unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+council room unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+Current player state change check
+hand count = 132, expected = 132
+deck count = 107, expected = 107
+TEST SUCCEEDED: actual: 132, expected: 132 
+TEST SUCCEEDED: actual: 107, expected: 107 
+other player hand count = 255, expected = 255
+other player deck count = 85, expected = 85
+other player discard count = 53, expected = 53
+TEST SUCCEEDED: actual: 85, expected: 85 
+TEST SUCCEEDED: actual: 53, expected: 53 
+TEST SUCCEEDED: actual: 255, expected: 255 
+TEST SUCCEEDED: actual: 0, expected: 0 
+estate unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+duchy unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+province unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+gardens unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+curse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+smithy unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+adventurer unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+embargo unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+village unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+minion unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+mine unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+cutpurse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+sea hag unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+tribute unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+council room unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+Current player state change check
+hand count = 248, expected = 248
+deck count = 25, expected = 25
+TEST SUCCEEDED: actual: 248, expected: 248 
+TEST SUCCEEDED: actual: 25, expected: 25 
+other player hand count = 205, expected = 205
+other player deck count = 108, expected = 108
+other player discard count = 66, expected = 66
+TEST SUCCEEDED: actual: 108, expected: 108 
+TEST SUCCEEDED: actual: 66, expected: 66 
+TEST SUCCEEDED: actual: 205, expected: 205 
+TEST SUCCEEDED: actual: 0, expected: 0 
+estate unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+duchy unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+province unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+gardens unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+curse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+smithy unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+adventurer unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+embargo unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+village unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+minion unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+mine unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+cutpurse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+sea hag unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+tribute unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+council room unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+Current player state change check
+hand count = 317, expected = 317
+deck count = 6, expected = 6
+TEST SUCCEEDED: actual: 317, expected: 317 
+TEST SUCCEEDED: actual: 6, expected: 6 
+other player hand count = 9, expected = 9
+other player deck count = 201, expected = 201
+other player discard count = 100, expected = 100
+TEST SUCCEEDED: actual: 201, expected: 201 
+TEST SUCCEEDED: actual: 100, expected: 100 
+TEST SUCCEEDED: actual: 9, expected: 9 
+TEST SUCCEEDED: actual: 0, expected: 0 
+estate unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+duchy unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+province unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+gardens unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+curse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+smithy unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+adventurer unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+embargo unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+village unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+minion unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+mine unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+cutpurse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+sea hag unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+tribute unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+council room unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+Current player state change check
+hand count = 231, expected = 231
+deck count = 137, expected = 137
+TEST SUCCEEDED: actual: 231, expected: 231 
+TEST SUCCEEDED: actual: 137, expected: 137 
+other player hand count = 55, expected = 55
+other player deck count = 326, expected = 326
+other player discard count = 23, expected = 23
+TEST SUCCEEDED: actual: 326, expected: 326 
+TEST SUCCEEDED: actual: 23, expected: 23 
+TEST SUCCEEDED: actual: 55, expected: 55 
+TEST SUCCEEDED: actual: 0, expected: 0 
+estate unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+duchy unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+province unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+gardens unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+curse unchanged test
+TEST SUCCEEDED: actual: 20, expected: 20 
+smithy unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+adventurer unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+embargo unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+village unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+minion unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+mine unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+cutpurse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+sea hag unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+tribute unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+council room unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+Current player state change check
+hand count = 23, expected = 23
+deck count = 145, expected = 145
+TEST SUCCEEDED: actual: 23, expected: 23 
+TEST SUCCEEDED: actual: 145, expected: 145 
+other player hand count = 31, expected = 31
+other player deck count = 106, expected = 106
+other player discard count = 156, expected = 156
+TEST SUCCEEDED: actual: 106, expected: 106 
+TEST SUCCEEDED: actual: 156, expected: 156 
+TEST SUCCEEDED: actual: 31, expected: 31 
+other player hand count = 28, expected = 28
+other player deck count = 171, expected = 171
+other player discard count = 104, expected = 104
+TEST SUCCEEDED: actual: 171, expected: 171 
+TEST SUCCEEDED: actual: 104, expected: 104 
+TEST SUCCEEDED: actual: 28, expected: 28 
+TEST SUCCEEDED: actual: 0, expected: 0 
+estate unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+duchy unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+province unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+gardens unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+curse unchanged test
+TEST SUCCEEDED: actual: 30, expected: 30 
+smithy unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+adventurer unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+embargo unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+village unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+minion unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+mine unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+cutpurse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+sea hag unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+tribute unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+council room unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+other player hand count = 379, expected = 379
+other player deck count = 52, expected = 52
+other player discard count = 23, expected = 23
+TEST SUCCEEDED: actual: 52, expected: 52 
+TEST SUCCEEDED: actual: 23, expected: 23 
+TEST SUCCEEDED: actual: 379, expected: 379 
+other player hand count = 142, expected = 142
+other player deck count = 133, expected = 133
+other player discard count = 203, expected = 203
+TEST SUCCEEDED: actual: 133, expected: 133 
+TEST SUCCEEDED: actual: 203, expected: 203 
+TEST SUCCEEDED: actual: 142, expected: 142 
+Current player state change check
+hand count = 287, expected = 287
+deck count = 59, expected = 59
+TEST SUCCEEDED: actual: 287, expected: 287 
+TEST SUCCEEDED: actual: 59, expected: 59 
+other player hand count = 27, expected = 27
+other player deck count = 275, expected = 275
+other player discard count = 132, expected = 132
+TEST SUCCEEDED: actual: 275, expected: 275 
+TEST SUCCEEDED: actual: 132, expected: 132 
+TEST SUCCEEDED: actual: 27, expected: 27 
+TEST SUCCEEDED: actual: 0, expected: 0 
+estate unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+duchy unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+province unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+gardens unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+curse unchanged test
+TEST SUCCEEDED: actual: 20, expected: 20 
+smithy unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+adventurer unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+embargo unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+village unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+minion unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+mine unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+cutpurse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+sea hag unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+tribute unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+council room unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+other player hand count = 68, expected = 68
+other player deck count = 165, expected = 165
+other player discard count = 60, expected = 60
+TEST SUCCEEDED: actual: 165, expected: 165 
+TEST SUCCEEDED: actual: 60, expected: 60 
+TEST SUCCEEDED: actual: 68, expected: 68 
+Current player state change check
+hand count = 6, expected = 6
+deck count = 371, expected = 371
+TEST SUCCEEDED: actual: 6, expected: 6 
+TEST SUCCEEDED: actual: 371, expected: 371 
+other player hand count = 1, expected = 1
+other player deck count = 147, expected = 147
+other player discard count = 154, expected = 154
+TEST SUCCEEDED: actual: 147, expected: 147 
+TEST SUCCEEDED: actual: 154, expected: 154 
+TEST SUCCEEDED: actual: 1, expected: 1 
+TEST SUCCEEDED: actual: 0, expected: 0 
+estate unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+duchy unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+province unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+gardens unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+curse unchanged test
+TEST SUCCEEDED: actual: 30, expected: 30 
+smithy unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+adventurer unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+embargo unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+village unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+minion unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+mine unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+cutpurse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+sea hag unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+tribute unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+council room unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+other player hand count = 154, expected = 154
+other player deck count = 303, expected = 303
+other player discard count = 33, expected = 33
+TEST SUCCEEDED: actual: 303, expected: 303 
+TEST SUCCEEDED: actual: 33, expected: 33 
+TEST SUCCEEDED: actual: 154, expected: 154 
+other player hand count = 6, expected = 6
+other player deck count = 110, expected = 110
+other player discard count = 181, expected = 181
+TEST SUCCEEDED: actual: 110, expected: 110 
+TEST SUCCEEDED: actual: 181, expected: 181 
+TEST SUCCEEDED: actual: 6, expected: 6 
+other player hand count = 31, expected = 31
+other player deck count = 292, expected = 292
+other player discard count = 45, expected = 45
+TEST SUCCEEDED: actual: 292, expected: 292 
+TEST SUCCEEDED: actual: 45, expected: 45 
+TEST SUCCEEDED: actual: 31, expected: 31 
+Current player state change check
+hand count = 339, expected = 339
+deck count = 38, expected = 38
+TEST SUCCEEDED: actual: 339, expected: 339 
+TEST SUCCEEDED: actual: 38, expected: 38 
+TEST SUCCEEDED: actual: 0, expected: 0 
+estate unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+duchy unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+province unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+gardens unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+curse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+smithy unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+adventurer unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+embargo unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+village unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+minion unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+mine unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+cutpurse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+sea hag unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+tribute unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+council room unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+other player hand count = 117, expected = 117
+other player deck count = 255, expected = 255
+other player discard count = 57, expected = 57
+TEST SUCCEEDED: actual: 255, expected: 255 
+TEST SUCCEEDED: actual: 57, expected: 57 
+TEST SUCCEEDED: actual: 117, expected: 117 
+Current player state change check
+hand count = 14, expected = 14
+deck count = 132, expected = 132
+TEST SUCCEEDED: actual: 14, expected: 14 
+TEST SUCCEEDED: actual: 132, expected: 132 
+TEST SUCCEEDED: actual: 0, expected: 0 
+estate unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+duchy unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+province unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+gardens unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+curse unchanged test
+TEST SUCCEEDED: actual: 20, expected: 20 
+smithy unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+adventurer unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+embargo unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+village unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+minion unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+mine unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+cutpurse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+sea hag unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+tribute unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+council room unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+Current player state change check
+hand count = 218, expected = 218
+deck count = 103, expected = 103
+TEST SUCCEEDED: actual: 218, expected: 218 
+TEST SUCCEEDED: actual: 103, expected: 103 
+other player hand count = 147, expected = 147
+other player deck count = 252, expected = 252
+other player discard count = 45, expected = 45
+TEST SUCCEEDED: actual: 252, expected: 252 
+TEST SUCCEEDED: actual: 45, expected: 45 
+TEST SUCCEEDED: actual: 147, expected: 147 
+other player hand count = 15, expected = 15
+other player deck count = 49, expected = 49
+other player discard count = 301, expected = 301
+TEST SUCCEEDED: actual: 49, expected: 49 
+TEST SUCCEEDED: actual: 301, expected: 301 
+TEST SUCCEEDED: actual: 15, expected: 15 
+TEST SUCCEEDED: actual: 0, expected: 0 
+estate unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+duchy unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+province unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+gardens unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+curse unchanged test
+TEST SUCCEEDED: actual: 20, expected: 20 
+smithy unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+adventurer unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+embargo unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+village unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+minion unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+mine unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+cutpurse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+sea hag unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+tribute unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+council room unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+other player hand count = 318, expected = 318
+other player deck count = 62, expected = 62
+other player discard count = 50, expected = 50
+TEST SUCCEEDED: actual: 62, expected: 62 
+TEST SUCCEEDED: actual: 50, expected: 50 
+TEST SUCCEEDED: actual: 318, expected: 318 
+other player hand count = 39, expected = 39
+other player deck count = 234, expected = 234
+other player discard count = 186, expected = 186
+TEST SUCCEEDED: actual: 234, expected: 234 
+TEST SUCCEEDED: actual: 186, expected: 186 
+TEST SUCCEEDED: actual: 39, expected: 39 
+Current player state change check
+hand count = 14, expected = 14
+deck count = 20, expected = 20
+TEST SUCCEEDED: actual: 14, expected: 14 
+TEST SUCCEEDED: actual: 20, expected: 20 
+TEST SUCCEEDED: actual: 0, expected: 0 
+estate unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+duchy unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+province unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+gardens unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+curse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+smithy unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+adventurer unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+embargo unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+village unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+minion unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+mine unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+cutpurse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+sea hag unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+tribute unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+council room unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+other player hand count = 42, expected = 42
+other player deck count = 273, expected = 273
+other player discard count = 121, expected = 121
+TEST SUCCEEDED: actual: 273, expected: 273 
+TEST SUCCEEDED: actual: 121, expected: 121 
+TEST SUCCEEDED: actual: 42, expected: 42 
+Current player state change check
+hand count = 71, expected = 71
+deck count = 340, expected = 340
+TEST SUCCEEDED: actual: 71, expected: 71 
+TEST SUCCEEDED: actual: 340, expected: 340 
+TEST SUCCEEDED: actual: 0, expected: 0 
+estate unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+duchy unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+province unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+gardens unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+curse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+smithy unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+adventurer unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+embargo unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+village unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+minion unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+mine unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+cutpurse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+sea hag unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+tribute unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+council room unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+Current player state change check
+hand count = 125, expected = 125
+deck count = 84, expected = 84
+TEST SUCCEEDED: actual: 125, expected: 125 
+TEST SUCCEEDED: actual: 84, expected: 84 
+other player hand count = 98, expected = 98
+other player deck count = 9, expected = 9
+other player discard count = 380, expected = 380
+TEST SUCCEEDED: actual: 9, expected: 9 
+TEST SUCCEEDED: actual: 380, expected: 380 
+TEST SUCCEEDED: actual: 98, expected: 98 
+TEST SUCCEEDED: actual: 0, expected: 0 
+estate unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+duchy unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+province unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+gardens unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+curse unchanged test
+TEST SUCCEEDED: actual: 30, expected: 30 
+smithy unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+adventurer unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+embargo unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+village unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+minion unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+mine unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+cutpurse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+sea hag unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+tribute unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+council room unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+other player hand count = 236, expected = 236
+other player deck count = 106, expected = 106
+other player discard count = 128, expected = 128
+TEST SUCCEEDED: actual: 106, expected: 106 
+TEST SUCCEEDED: actual: 128, expected: 128 
+TEST SUCCEEDED: actual: 236, expected: 236 
+other player hand count = 14, expected = 14
+other player deck count = 253, expected = 253
+other player discard count = 75, expected = 75
+TEST SUCCEEDED: actual: 253, expected: 253 
+TEST SUCCEEDED: actual: 75, expected: 75 
+TEST SUCCEEDED: actual: 14, expected: 14 
+other player hand count = 30, expected = 30
+other player deck count = 106, expected = 106
+other player discard count = 274, expected = 274
+TEST SUCCEEDED: actual: 106, expected: 106 
+TEST SUCCEEDED: actual: 274, expected: 274 
+TEST SUCCEEDED: actual: 30, expected: 30 
+Current player state change check
+hand count = 85, expected = 85
+deck count = 263, expected = 263
+TEST SUCCEEDED: actual: 85, expected: 85 
+TEST SUCCEEDED: actual: 263, expected: 263 
+TEST SUCCEEDED: actual: 0, expected: 0 
+estate unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+duchy unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+province unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+gardens unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+curse unchanged test
+TEST SUCCEEDED: actual: 20, expected: 20 
+smithy unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+adventurer unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+embargo unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+village unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+minion unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+mine unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+cutpurse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+sea hag unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+tribute unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+council room unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+other player hand count = 11, expected = 11
+other player deck count = 370, expected = 370
+other player discard count = 40, expected = 40
+TEST SUCCEEDED: actual: 370, expected: 370 
+TEST SUCCEEDED: actual: 40, expected: 40 
+TEST SUCCEEDED: actual: 11, expected: 11 
+Current player state change check
+hand count = 17, expected = 17
+deck count = 85, expected = 85
+TEST SUCCEEDED: actual: 17, expected: 17 
+TEST SUCCEEDED: actual: 85, expected: 85 
+other player hand count = 79, expected = 79
+other player deck count = 109, expected = 109
+other player discard count = 252, expected = 252
+TEST SUCCEEDED: actual: 109, expected: 109 
+TEST SUCCEEDED: actual: 252, expected: 252 
+TEST SUCCEEDED: actual: 79, expected: 79 
+TEST SUCCEEDED: actual: 0, expected: 0 
+estate unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+duchy unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+province unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+gardens unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+curse unchanged test
+TEST SUCCEEDED: actual: 20, expected: 20 
+smithy unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+adventurer unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+embargo unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+village unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+minion unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+mine unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+cutpurse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+sea hag unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+tribute unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+council room unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+other player hand count = 33, expected = 33
+other player deck count = 223, expected = 223
+other player discard count = 61, expected = 61
+TEST SUCCEEDED: actual: 223, expected: 223 
+TEST SUCCEEDED: actual: 61, expected: 61 
+TEST SUCCEEDED: actual: 33, expected: 33 
+Current player state change check
+hand count = 38, expected = 38
+deck count = 293, expected = 293
+TEST SUCCEEDED: actual: 38, expected: 38 
+TEST SUCCEEDED: actual: 293, expected: 293 
+other player hand count = 400, expected = 400
+other player deck count = 33, expected = 33
+other player discard count = 54, expected = 54
+TEST SUCCEEDED: actual: 33, expected: 33 
+TEST SUCCEEDED: actual: 54, expected: 54 
+TEST SUCCEEDED: actual: 400, expected: 400 
+TEST SUCCEEDED: actual: 0, expected: 0 
+estate unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+duchy unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+province unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+gardens unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+curse unchanged test
+TEST SUCCEEDED: actual: 20, expected: 20 
+smithy unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+adventurer unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+embargo unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+village unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+minion unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+mine unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+cutpurse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+sea hag unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+tribute unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+council room unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+other player hand count = 39, expected = 39
+other player deck count = 193, expected = 193
+other player discard count = 246, expected = 246
+TEST SUCCEEDED: actual: 193, expected: 193 
+TEST SUCCEEDED: actual: 246, expected: 246 
+TEST SUCCEEDED: actual: 39, expected: 39 
+Current player state change check
+hand count = 159, expected = 159
+deck count = 51, expected = 51
+TEST SUCCEEDED: actual: 159, expected: 159 
+TEST SUCCEEDED: actual: 51, expected: 51 
+other player hand count = 125, expected = 125
+other player deck count = 26, expected = 26
+other player discard count = 37, expected = 37
+TEST SUCCEEDED: actual: 26, expected: 26 
+TEST SUCCEEDED: actual: 37, expected: 37 
+TEST SUCCEEDED: actual: 125, expected: 125 
+TEST SUCCEEDED: actual: 0, expected: 0 
+estate unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+duchy unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+province unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+gardens unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+curse unchanged test
+TEST SUCCEEDED: actual: 20, expected: 20 
+smithy unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+adventurer unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+embargo unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+village unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+minion unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+mine unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+cutpurse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+sea hag unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+tribute unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+council room unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+Current player state change check
+hand count = 12, expected = 12
+deck count = 269, expected = 269
+TEST SUCCEEDED: actual: 12, expected: 12 
+TEST SUCCEEDED: actual: 269, expected: 269 
+other player hand count = 23, expected = 23
+other player deck count = 137, expected = 137
+other player discard count = 255, expected = 255
+TEST SUCCEEDED: actual: 137, expected: 137 
+TEST SUCCEEDED: actual: 255, expected: 255 
+TEST SUCCEEDED: actual: 23, expected: 23 
+other player hand count = 55, expected = 55
+other player deck count = 76, expected = 76
+other player discard count = 57, expected = 57
+TEST SUCCEEDED: actual: 76, expected: 76 
+TEST SUCCEEDED: actual: 57, expected: 57 
+TEST SUCCEEDED: actual: 55, expected: 55 
+TEST SUCCEEDED: actual: 0, expected: 0 
+estate unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+duchy unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+province unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+gardens unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+curse unchanged test
+TEST SUCCEEDED: actual: 20, expected: 20 
+smithy unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+adventurer unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+embargo unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+village unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+minion unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+mine unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+cutpurse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+sea hag unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+tribute unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+council room unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+other player hand count = 407, expected = 407
+other player deck count = 29, expected = 29
+other player discard count = 32, expected = 32
+TEST SUCCEEDED: actual: 29, expected: 29 
+TEST SUCCEEDED: actual: 32, expected: 32 
+TEST SUCCEEDED: actual: 407, expected: 407 
+Current player state change check
+hand count = 42, expected = 42
+deck count = 398, expected = 398
+TEST SUCCEEDED: actual: 42, expected: 42 
+TEST SUCCEEDED: actual: 398, expected: 398 
+other player hand count = 60, expected = 60
+other player deck count = 93, expected = 93
+other player discard count = 246, expected = 246
+TEST SUCCEEDED: actual: 93, expected: 93 
+TEST SUCCEEDED: actual: 246, expected: 246 
+TEST SUCCEEDED: actual: 60, expected: 60 
+TEST SUCCEEDED: actual: 0, expected: 0 
+estate unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+duchy unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+province unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+gardens unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+curse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+smithy unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+adventurer unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+embargo unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+village unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+minion unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+mine unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+cutpurse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+sea hag unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+tribute unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+council room unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+Current player state change check
+hand count = 69, expected = 69
+deck count = 270, expected = 270
+TEST SUCCEEDED: actual: 69, expected: 69 
+TEST SUCCEEDED: actual: 270, expected: 270 
+other player hand count = 83, expected = 83
+other player deck count = 147, expected = 147
+other player discard count = 247, expected = 247
+TEST SUCCEEDED: actual: 147, expected: 147 
+TEST SUCCEEDED: actual: 247, expected: 247 
+TEST SUCCEEDED: actual: 83, expected: 83 
+TEST SUCCEEDED: actual: 0, expected: 0 
+estate unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+duchy unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+province unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+gardens unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+curse unchanged test
+TEST SUCCEEDED: actual: 30, expected: 30 
+smithy unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+adventurer unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+embargo unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+village unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+minion unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+mine unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+cutpurse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+sea hag unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+tribute unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+council room unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+other player hand count = 85, expected = 85
+other player deck count = 116, expected = 116
+other player discard count = 61, expected = 61
+TEST SUCCEEDED: actual: 116, expected: 116 
+TEST SUCCEEDED: actual: 61, expected: 61 
+TEST SUCCEEDED: actual: 85, expected: 85 
+other player hand count = 346, expected = 346
+other player deck count = 16, expected = 16
+other player discard count = 90, expected = 90
+TEST SUCCEEDED: actual: 16, expected: 16 
+TEST SUCCEEDED: actual: 90, expected: 90 
+TEST SUCCEEDED: actual: 346, expected: 346 
+other player hand count = 169, expected = 169
+other player deck count = 71, expected = 71
+other player discard count = 128, expected = 128
+TEST SUCCEEDED: actual: 71, expected: 71 
+TEST SUCCEEDED: actual: 128, expected: 128 
+TEST SUCCEEDED: actual: 169, expected: 169 
+Current player state change check
+hand count = 104, expected = 104
+deck count = 140, expected = 140
+TEST SUCCEEDED: actual: 104, expected: 104 
+TEST SUCCEEDED: actual: 140, expected: 140 
+TEST SUCCEEDED: actual: 0, expected: 0 
+estate unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+duchy unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+province unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+gardens unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+curse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+smithy unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+adventurer unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+embargo unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+village unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+minion unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+mine unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+cutpurse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+sea hag unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+tribute unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+council room unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+Current player state change check
+hand count = 10, expected = 10
+deck count = 23, expected = 23
+TEST SUCCEEDED: actual: 10, expected: 10 
+TEST SUCCEEDED: actual: 23, expected: 23 
+other player hand count = 281, expected = 281
+other player deck count = 88, expected = 88
+other player discard count = 88, expected = 88
+TEST SUCCEEDED: actual: 88, expected: 88 
+TEST SUCCEEDED: actual: 88, expected: 88 
+TEST SUCCEEDED: actual: 281, expected: 281 
+TEST SUCCEEDED: actual: 0, expected: 0 
+estate unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+duchy unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+province unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+gardens unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+curse unchanged test
+TEST SUCCEEDED: actual: 30, expected: 30 
+smithy unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+adventurer unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+embargo unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+village unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+minion unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+mine unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+cutpurse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+sea hag unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+tribute unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+council room unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+Current player state change check
+hand count = 165, expected = 165
+deck count = 40, expected = 40
+TEST SUCCEEDED: actual: 165, expected: 165 
+TEST SUCCEEDED: actual: 40, expected: 40 
+other player hand count = 0, expected = 0
+other player deck count = 78, expected = 78
+other player discard count = 86, expected = 86
+TEST SUCCEEDED: actual: 78, expected: 78 
+TEST SUCCEEDED: actual: 86, expected: 86 
+TEST SUCCEEDED: actual: 0, expected: 0 
+other player hand count = 94, expected = 94
+other player deck count = 99, expected = 99
+other player discard count = 44, expected = 44
+TEST SUCCEEDED: actual: 99, expected: 99 
+TEST SUCCEEDED: actual: 44, expected: 44 
+TEST SUCCEEDED: actual: 94, expected: 94 
+other player hand count = 131, expected = 131
+other player deck count = 101, expected = 101
+other player discard count = 123, expected = 123
+TEST SUCCEEDED: actual: 101, expected: 101 
+TEST SUCCEEDED: actual: 123, expected: 123 
+TEST SUCCEEDED: actual: 131, expected: 131 
+TEST SUCCEEDED: actual: 0, expected: 0 
+estate unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+duchy unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+province unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+gardens unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+curse unchanged test
+TEST SUCCEEDED: actual: 30, expected: 30 
+smithy unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+adventurer unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+embargo unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+village unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+minion unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+mine unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+cutpurse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+sea hag unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+tribute unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+council room unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+other player hand count = 94, expected = 94
+other player deck count = 315, expected = 315
+other player discard count = 6, expected = 6
+TEST SUCCEEDED: actual: 315, expected: 315 
+TEST SUCCEEDED: actual: 6, expected: 6 
+TEST SUCCEEDED: actual: 94, expected: 94 
+Current player state change check
+hand count = 37, expected = 37
+deck count = 75, expected = 75
+TEST SUCCEEDED: actual: 37, expected: 37 
+TEST SUCCEEDED: actual: 75, expected: 75 
+other player hand count = 309, expected = 309
+other player deck count = 169, expected = 169
+other player discard count = 10, expected = 10
+TEST SUCCEEDED: actual: 169, expected: 169 
+TEST SUCCEEDED: actual: 10, expected: 10 
+TEST SUCCEEDED: actual: 309, expected: 309 
+other player hand count = 129, expected = 129
+other player deck count = 271, expected = 271
+other player discard count = 22, expected = 22
+TEST SUCCEEDED: actual: 271, expected: 271 
+TEST SUCCEEDED: actual: 22, expected: 22 
+TEST SUCCEEDED: actual: 129, expected: 129 
+TEST SUCCEEDED: actual: 0, expected: 0 
+estate unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+duchy unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+province unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+gardens unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+curse unchanged test
+TEST SUCCEEDED: actual: 30, expected: 30 
+smithy unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+adventurer unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+embargo unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+village unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+minion unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+mine unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+cutpurse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+sea hag unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+tribute unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+council room unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+other player hand count = 268, expected = 268
+other player deck count = 33, expected = 33
+other player discard count = 32, expected = 32
+TEST SUCCEEDED: actual: 33, expected: 33 
+TEST SUCCEEDED: actual: 32, expected: 32 
+TEST SUCCEEDED: actual: 268, expected: 268 
+other player hand count = 150, expected = 150
+other player deck count = 154, expected = 154
+other player discard count = 10, expected = 10
+TEST SUCCEEDED: actual: 154, expected: 154 
+TEST SUCCEEDED: actual: 10, expected: 10 
+TEST SUCCEEDED: actual: 150, expected: 150 
+Current player state change check
+hand count = 187, expected = 187
+deck count = 257, expected = 257
+TEST SUCCEEDED: actual: 187, expected: 187 
+TEST SUCCEEDED: actual: 257, expected: 257 
+other player hand count = 99, expected = 99
+other player deck count = 69, expected = 69
+other player discard count = 287, expected = 287
+TEST SUCCEEDED: actual: 69, expected: 69 
+TEST SUCCEEDED: actual: 287, expected: 287 
+TEST SUCCEEDED: actual: 99, expected: 99 
+TEST SUCCEEDED: actual: 0, expected: 0 
+estate unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+duchy unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+province unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+gardens unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+curse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+smithy unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+adventurer unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+embargo unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+village unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+minion unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+mine unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+cutpurse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+sea hag unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+tribute unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+council room unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+other player hand count = 258, expected = 258
+other player deck count = 52, expected = 52
+other player discard count = 96, expected = 96
+TEST SUCCEEDED: actual: 52, expected: 52 
+TEST SUCCEEDED: actual: 96, expected: 96 
+TEST SUCCEEDED: actual: 258, expected: 258 
+Current player state change check
+hand count = 25, expected = 25
+deck count = 24, expected = 24
+TEST SUCCEEDED: actual: 25, expected: 25 
+TEST SUCCEEDED: actual: 24, expected: 24 
+TEST SUCCEEDED: actual: 0, expected: 0 
+estate unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+duchy unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+province unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+gardens unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+curse unchanged test
+TEST SUCCEEDED: actual: 20, expected: 20 
+smithy unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+adventurer unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+embargo unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+village unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+minion unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+mine unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+cutpurse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+sea hag unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+tribute unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+council room unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+other player hand count = 59, expected = 59
+other player deck count = 72, expected = 72
+other player discard count = 3, expected = 3
+TEST SUCCEEDED: actual: 72, expected: 72 
+TEST SUCCEEDED: actual: 3, expected: 3 
+TEST SUCCEEDED: actual: 59, expected: 59 
+other player hand count = 410, expected = 410
+other player deck count = 58, expected = 58
+other player discard count = 2, expected = 2
+TEST SUCCEEDED: actual: 58, expected: 58 
+TEST SUCCEEDED: actual: 2, expected: 2 
+TEST SUCCEEDED: actual: 410, expected: 410 
+Current player state change check
+hand count = 22, expected = 22
+deck count = 32, expected = 32
+TEST SUCCEEDED: actual: 22, expected: 22 
+TEST SUCCEEDED: actual: 32, expected: 32 
+TEST SUCCEEDED: actual: 0, expected: 0 
+estate unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+duchy unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+province unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+gardens unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+curse unchanged test
+TEST SUCCEEDED: actual: 20, expected: 20 
+smithy unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+adventurer unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+embargo unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+village unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+minion unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+mine unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+cutpurse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+sea hag unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+tribute unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+council room unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+Current player state change check
+hand count = 141, expected = 141
+deck count = 261, expected = 261
+TEST SUCCEEDED: actual: 141, expected: 141 
+TEST SUCCEEDED: actual: 261, expected: 261 
+other player hand count = 359, expected = 359
+other player deck count = 1, expected = 1
+other player discard count = 32, expected = 32
+TEST SUCCEEDED: actual: 1, expected: 1 
+TEST SUCCEEDED: actual: 32, expected: 32 
+TEST SUCCEEDED: actual: 359, expected: 359 
+other player hand count = 106, expected = 106
+other player deck count = 79, expected = 79
+other player discard count = 149, expected = 149
+TEST SUCCEEDED: actual: 79, expected: 79 
+TEST SUCCEEDED: actual: 149, expected: 149 
+TEST SUCCEEDED: actual: 106, expected: 106 
+TEST SUCCEEDED: actual: 0, expected: 0 
+estate unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+duchy unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+province unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+gardens unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+curse unchanged test
+TEST SUCCEEDED: actual: 20, expected: 20 
+smithy unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+adventurer unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+embargo unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+village unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+minion unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+mine unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+cutpurse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+sea hag unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+tribute unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+council room unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+other player hand count = 123, expected = 123
+other player deck count = 269, expected = 269
+other player discard count = 82, expected = 82
+TEST SUCCEEDED: actual: 269, expected: 269 
+TEST SUCCEEDED: actual: 82, expected: 82 
+TEST SUCCEEDED: actual: 123, expected: 123 
+other player hand count = 105, expected = 105
+other player deck count = 192, expected = 192
+other player discard count = 76, expected = 76
+TEST SUCCEEDED: actual: 192, expected: 192 
+TEST SUCCEEDED: actual: 76, expected: 76 
+TEST SUCCEEDED: actual: 105, expected: 105 
+Current player state change check
+hand count = 13, expected = 13
+deck count = 280, expected = 280
+TEST SUCCEEDED: actual: 13, expected: 13 
+TEST SUCCEEDED: actual: 280, expected: 280 
+TEST SUCCEEDED: actual: 0, expected: 0 
+estate unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+duchy unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+province unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+gardens unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+curse unchanged test
+TEST SUCCEEDED: actual: 20, expected: 20 
+smithy unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+adventurer unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+embargo unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+village unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+minion unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+mine unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+cutpurse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+sea hag unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+tribute unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+council room unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+other player hand count = 112, expected = 112
+other player deck count = 160, expected = 160
+other player discard count = 175, expected = 175
+TEST SUCCEEDED: actual: 160, expected: 160 
+TEST SUCCEEDED: actual: 175, expected: 175 
+TEST SUCCEEDED: actual: 112, expected: 112 
+Current player state change check
+hand count = 72, expected = 72
+deck count = 22, expected = 22
+TEST SUCCEEDED: actual: 72, expected: 72 
+TEST SUCCEEDED: actual: 22, expected: 22 
+other player hand count = 21, expected = 21
+other player deck count = 85, expected = 85
+other player discard count = 386, expected = 386
+TEST SUCCEEDED: actual: 85, expected: 85 
+TEST SUCCEEDED: actual: 386, expected: 386 
+TEST SUCCEEDED: actual: 21, expected: 21 
+TEST SUCCEEDED: actual: 0, expected: 0 
+estate unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+duchy unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+province unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+gardens unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+curse unchanged test
+TEST SUCCEEDED: actual: 20, expected: 20 
+smithy unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+adventurer unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+embargo unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+village unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+minion unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+mine unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+cutpurse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+sea hag unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+tribute unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+council room unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+Current player state change check
+hand count = 43, expected = 43
+deck count = 47, expected = 47
+TEST SUCCEEDED: actual: 43, expected: 43 
+TEST SUCCEEDED: actual: 47, expected: 47 
+other player hand count = 84, expected = 84
+other player deck count = 2, expected = 2
+other player discard count = 352, expected = 352
+TEST SUCCEEDED: actual: 2, expected: 2 
+TEST SUCCEEDED: actual: 352, expected: 352 
+TEST SUCCEEDED: actual: 84, expected: 84 
+other player hand count = 174, expected = 174
+other player deck count = 28, expected = 28
+other player discard count = 160, expected = 160
+TEST SUCCEEDED: actual: 28, expected: 28 
+TEST SUCCEEDED: actual: 160, expected: 160 
+TEST SUCCEEDED: actual: 174, expected: 174 
+TEST SUCCEEDED: actual: 0, expected: 0 
+estate unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+duchy unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+province unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+gardens unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+curse unchanged test
+TEST SUCCEEDED: actual: 20, expected: 20 
+smithy unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+adventurer unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+embargo unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+village unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+minion unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+mine unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+cutpurse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+sea hag unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+tribute unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+council room unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+Current player state change check
+hand count = 389, expected = 389
+deck count = 5, expected = 5
+TEST SUCCEEDED: actual: 389, expected: 389 
+TEST SUCCEEDED: actual: 5, expected: 5 
+other player hand count = 46, expected = 46
+other player deck count = 42, expected = 42
+other player discard count = 20, expected = 20
+TEST SUCCEEDED: actual: 42, expected: 42 
+TEST SUCCEEDED: actual: 20, expected: 20 
+TEST SUCCEEDED: actual: 46, expected: 46 
+other player hand count = 168, expected = 168
+other player deck count = 201, expected = 201
+other player discard count = 96, expected = 96
+TEST SUCCEEDED: actual: 201, expected: 201 
+TEST SUCCEEDED: actual: 96, expected: 96 
+TEST SUCCEEDED: actual: 168, expected: 168 
+TEST SUCCEEDED: actual: 0, expected: 0 
+estate unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+duchy unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+province unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+gardens unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+curse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+smithy unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+adventurer unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+embargo unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+village unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+minion unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+mine unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+cutpurse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+sea hag unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+tribute unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+council room unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+other player hand count = 28, expected = 28
+other player deck count = 319, expected = 319
+other player discard count = 82, expected = 82
+TEST SUCCEEDED: actual: 319, expected: 319 
+TEST SUCCEEDED: actual: 82, expected: 82 
+TEST SUCCEEDED: actual: 28, expected: 28 
+Current player state change check
+hand count = 31, expected = 31
+deck count = 38, expected = 38
+TEST SUCCEEDED: actual: 31, expected: 31 
+TEST SUCCEEDED: actual: 38, expected: 38 
+TEST SUCCEEDED: actual: 0, expected: 0 
+estate unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+duchy unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+province unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+gardens unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+curse unchanged test
+TEST SUCCEEDED: actual: 30, expected: 30 
+smithy unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+adventurer unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+embargo unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+village unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+minion unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+mine unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+cutpurse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+sea hag unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+tribute unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+council room unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+other player hand count = 111, expected = 111
+other player deck count = 7, expected = 7
+other player discard count = 126, expected = 126
+TEST SUCCEEDED: actual: 7, expected: 7 
+TEST SUCCEEDED: actual: 126, expected: 126 
+TEST SUCCEEDED: actual: 111, expected: 111 
+Current player state change check
+hand count = 14, expected = 14
+deck count = 68, expected = 68
+TEST SUCCEEDED: actual: 14, expected: 14 
+TEST SUCCEEDED: actual: 68, expected: 68 
+other player hand count = 424, expected = 424
+other player deck count = 30, expected = 30
+other player discard count = 28, expected = 28
+TEST SUCCEEDED: actual: 30, expected: 30 
+TEST SUCCEEDED: actual: 28, expected: 28 
+TEST SUCCEEDED: actual: 424, expected: 424 
+other player hand count = 185, expected = 185
+other player deck count = 16, expected = 16
+other player discard count = 87, expected = 87
+TEST SUCCEEDED: actual: 16, expected: 16 
+TEST SUCCEEDED: actual: 87, expected: 87 
+TEST SUCCEEDED: actual: 185, expected: 185 
+TEST SUCCEEDED: actual: 0, expected: 0 
+estate unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+duchy unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+province unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+gardens unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+curse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+smithy unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+adventurer unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+embargo unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+village unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+minion unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+mine unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+cutpurse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+sea hag unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+tribute unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+council room unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+other player hand count = 31, expected = 31
+other player deck count = 86, expected = 86
+other player discard count = 1, expected = 1
+TEST SUCCEEDED: actual: 86, expected: 86 
+TEST SUCCEEDED: actual: 1, expected: 1 
+TEST SUCCEEDED: actual: 31, expected: 31 
+Current player state change check
+hand count = 18, expected = 18
+deck count = 199, expected = 199
+TEST SUCCEEDED: actual: 18, expected: 18 
+TEST SUCCEEDED: actual: 199, expected: 199 
+TEST SUCCEEDED: actual: 0, expected: 0 
+estate unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+duchy unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+province unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+gardens unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+curse unchanged test
+TEST SUCCEEDED: actual: 20, expected: 20 
+smithy unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+adventurer unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+embargo unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+village unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+minion unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+mine unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+cutpurse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+sea hag unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+tribute unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+council room unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+Current player state change check
+hand count = 231, expected = 231
+deck count = 168, expected = 168
+TEST SUCCEEDED: actual: 231, expected: 231 
+TEST SUCCEEDED: actual: 168, expected: 168 
+other player hand count = 275, expected = 275
+other player deck count = 46, expected = 46
+other player discard count = 112, expected = 112
+TEST SUCCEEDED: actual: 46, expected: 46 
+TEST SUCCEEDED: actual: 112, expected: 112 
+TEST SUCCEEDED: actual: 275, expected: 275 
+other player hand count = 10, expected = 10
+other player deck count = 169, expected = 169
+other player discard count = 266, expected = 266
+TEST SUCCEEDED: actual: 169, expected: 169 
+TEST SUCCEEDED: actual: 266, expected: 266 
+TEST SUCCEEDED: actual: 10, expected: 10 
+TEST SUCCEEDED: actual: 0, expected: 0 
+estate unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+duchy unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+province unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+gardens unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+curse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+smithy unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+adventurer unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+embargo unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+village unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+minion unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+mine unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+cutpurse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+sea hag unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+tribute unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+council room unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+other player hand count = 66, expected = 66
+other player deck count = 218, expected = 218
+other player discard count = 69, expected = 69
+TEST SUCCEEDED: actual: 218, expected: 218 
+TEST SUCCEEDED: actual: 69, expected: 69 
+TEST SUCCEEDED: actual: 66, expected: 66 
+Current player state change check
+hand count = 169, expected = 169
+deck count = 26, expected = 26
+TEST SUCCEEDED: actual: 169, expected: 169 
+TEST SUCCEEDED: actual: 26, expected: 26 
+TEST SUCCEEDED: actual: 0, expected: 0 
+estate unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+duchy unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+province unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+gardens unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+curse unchanged test
+TEST SUCCEEDED: actual: 30, expected: 30 
+smithy unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+adventurer unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+embargo unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+village unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+minion unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+mine unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+cutpurse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+sea hag unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+tribute unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+council room unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+other player hand count = 352, expected = 352
+other player deck count = 89, expected = 89
+other player discard count = 40, expected = 40
+TEST SUCCEEDED: actual: 89, expected: 89 
+TEST SUCCEEDED: actual: 40, expected: 40 
+TEST SUCCEEDED: actual: 352, expected: 352 
+other player hand count = 36, expected = 36
+other player deck count = 53, expected = 53
+other player discard count = 341, expected = 341
+TEST SUCCEEDED: actual: 53, expected: 53 
+TEST SUCCEEDED: actual: 341, expected: 341 
+TEST SUCCEEDED: actual: 36, expected: 36 
+other player hand count = 366, expected = 366
+other player deck count = 57, expected = 57
+other player discard count = 68, expected = 68
+TEST SUCCEEDED: actual: 57, expected: 57 
+TEST SUCCEEDED: actual: 68, expected: 68 
+TEST SUCCEEDED: actual: 366, expected: 366 
+Current player state change check
+hand count = 238, expected = 238
+deck count = 33, expected = 33
+TEST SUCCEEDED: actual: 238, expected: 238 
+TEST SUCCEEDED: actual: 33, expected: 33 
+TEST SUCCEEDED: actual: 0, expected: 0 
+estate unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+duchy unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+province unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+gardens unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+curse unchanged test
+TEST SUCCEEDED: actual: 20, expected: 20 
+smithy unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+adventurer unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+embargo unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+village unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+minion unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+mine unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+cutpurse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+sea hag unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+tribute unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+council room unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+Current player state change check
+hand count = 46, expected = 46
+deck count = 318, expected = 318
+TEST SUCCEEDED: actual: 46, expected: 46 
+TEST SUCCEEDED: actual: 318, expected: 318 
+other player hand count = 60, expected = 60
+other player deck count = 108, expected = 108
+other player discard count = 82, expected = 82
+TEST SUCCEEDED: actual: 108, expected: 108 
+TEST SUCCEEDED: actual: 82, expected: 82 
+TEST SUCCEEDED: actual: 60, expected: 60 
+other player hand count = 95, expected = 95
+other player deck count = 49, expected = 49
+other player discard count = 79, expected = 79
+TEST SUCCEEDED: actual: 49, expected: 49 
+TEST SUCCEEDED: actual: 79, expected: 79 
+TEST SUCCEEDED: actual: 95, expected: 95 
+TEST SUCCEEDED: actual: 0, expected: 0 
+estate unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+duchy unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+province unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+gardens unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+curse unchanged test
+TEST SUCCEEDED: actual: 20, expected: 20 
+smithy unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+adventurer unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+embargo unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+village unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+minion unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+mine unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+cutpurse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+sea hag unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+tribute unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+council room unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+other player hand count = 7, expected = 7
+other player deck count = 89, expected = 89
+other player discard count = 181, expected = 181
+TEST SUCCEEDED: actual: 89, expected: 89 
+TEST SUCCEEDED: actual: 181, expected: 181 
+TEST SUCCEEDED: actual: 7, expected: 7 
+Current player state change check
+hand count = 140, expected = 140
+deck count = 79, expected = 79
+TEST SUCCEEDED: actual: 140, expected: 140 
+TEST SUCCEEDED: actual: 79, expected: 79 
+other player hand count = 43, expected = 43
+other player deck count = 2, expected = 2
+other player discard count = 256, expected = 256
+TEST SUCCEEDED: actual: 2, expected: 2 
+TEST SUCCEEDED: actual: 256, expected: 256 
+TEST SUCCEEDED: actual: 43, expected: 43 
+TEST SUCCEEDED: actual: 0, expected: 0 
+estate unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+duchy unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+province unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+gardens unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+curse unchanged test
+TEST SUCCEEDED: actual: 20, expected: 20 
+smithy unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+adventurer unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+embargo unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+village unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+minion unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+mine unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+cutpurse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+sea hag unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+tribute unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+council room unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+other player hand count = 332, expected = 332
+other player deck count = 87, expected = 87
+other player discard count = 52, expected = 52
+TEST SUCCEEDED: actual: 87, expected: 87 
+TEST SUCCEEDED: actual: 52, expected: 52 
+TEST SUCCEEDED: actual: 332, expected: 332 
+Current player state change check
+hand count = 112, expected = 112
+deck count = 184, expected = 184
+TEST SUCCEEDED: actual: 112, expected: 112 
+TEST SUCCEEDED: actual: 184, expected: 184 
+other player hand count = 46, expected = 46
+other player deck count = 93, expected = 93
+other player discard count = 30, expected = 30
+TEST SUCCEEDED: actual: 93, expected: 93 
+TEST SUCCEEDED: actual: 30, expected: 30 
+TEST SUCCEEDED: actual: 46, expected: 46 
+TEST SUCCEEDED: actual: 0, expected: 0 
+estate unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+duchy unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+province unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+gardens unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+curse unchanged test
+TEST SUCCEEDED: actual: 20, expected: 20 
+smithy unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+adventurer unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+embargo unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+village unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+minion unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+mine unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+cutpurse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+sea hag unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+tribute unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+council room unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+other player hand count = 175, expected = 175
+other player deck count = 9, expected = 9
+other player discard count = 140, expected = 140
+TEST SUCCEEDED: actual: 9, expected: 9 
+TEST SUCCEEDED: actual: 140, expected: 140 
+TEST SUCCEEDED: actual: 175, expected: 175 
+other player hand count = 64, expected = 64
+other player deck count = 114, expected = 114
+other player discard count = 82, expected = 82
+TEST SUCCEEDED: actual: 114, expected: 114 
+TEST SUCCEEDED: actual: 82, expected: 82 
+TEST SUCCEEDED: actual: 64, expected: 64 
+Current player state change check
+hand count = 74, expected = 74
+deck count = 114, expected = 114
+TEST SUCCEEDED: actual: 74, expected: 74 
+TEST SUCCEEDED: actual: 114, expected: 114 
+TEST SUCCEEDED: actual: 0, expected: 0 
+estate unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+duchy unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+province unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+gardens unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+curse unchanged test
+TEST SUCCEEDED: actual: 30, expected: 30 
+smithy unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+adventurer unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+embargo unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+village unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+minion unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+mine unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+cutpurse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+sea hag unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+tribute unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+council room unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+other player hand count = 170, expected = 170
+other player deck count = 73, expected = 73
+other player discard count = 15, expected = 15
+TEST SUCCEEDED: actual: 73, expected: 73 
+TEST SUCCEEDED: actual: 15, expected: 15 
+TEST SUCCEEDED: actual: 170, expected: 170 
+Current player state change check
+hand count = 65, expected = 65
+deck count = 131, expected = 131
+TEST SUCCEEDED: actual: 65, expected: 65 
+TEST SUCCEEDED: actual: 131, expected: 131 
+other player hand count = 16, expected = 16
+other player deck count = 47, expected = 47
+other player discard count = 412, expected = 412
+TEST SUCCEEDED: actual: 47, expected: 47 
+TEST SUCCEEDED: actual: 412, expected: 412 
+TEST SUCCEEDED: actual: 16, expected: 16 
+other player hand count = 38, expected = 38
+other player deck count = 183, expected = 183
+other player discard count = 222, expected = 222
+TEST SUCCEEDED: actual: 183, expected: 183 
+TEST SUCCEEDED: actual: 222, expected: 222 
+TEST SUCCEEDED: actual: 38, expected: 38 
+TEST SUCCEEDED: actual: 0, expected: 0 
+estate unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+duchy unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+province unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+gardens unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+curse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+smithy unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+adventurer unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+embargo unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+village unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+minion unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+mine unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+cutpurse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+sea hag unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+tribute unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+council room unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+other player hand count = 1, expected = 1
+other player deck count = 254, expected = 254
+other player discard count = 4, expected = 4
+TEST SUCCEEDED: actual: 254, expected: 254 
+TEST SUCCEEDED: actual: 4, expected: 4 
+TEST SUCCEEDED: actual: 1, expected: 1 
+Current player state change check
+hand count = 210, expected = 210
+deck count = 131, expected = 131
+TEST SUCCEEDED: actual: 210, expected: 210 
+TEST SUCCEEDED: actual: 131, expected: 131 
+TEST SUCCEEDED: actual: 0, expected: 0 
+estate unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+duchy unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+province unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+gardens unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+curse unchanged test
+TEST SUCCEEDED: actual: 20, expected: 20 
+smithy unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+adventurer unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+embargo unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+village unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+minion unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+mine unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+cutpurse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+sea hag unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+tribute unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+council room unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+Current player state change check
+hand count = 192, expected = 192
+deck count = 113, expected = 113
+TEST SUCCEEDED: actual: 192, expected: 192 
+TEST SUCCEEDED: actual: 113, expected: 113 
+other player hand count = 343, expected = 343
+other player deck count = 36, expected = 36
+other player discard count = 51, expected = 51
+TEST SUCCEEDED: actual: 36, expected: 36 
+TEST SUCCEEDED: actual: 51, expected: 51 
+TEST SUCCEEDED: actual: 343, expected: 343 
+other player hand count = 20, expected = 20
+other player deck count = 343, expected = 343
+other player discard count = 117, expected = 117
+TEST SUCCEEDED: actual: 343, expected: 343 
+TEST SUCCEEDED: actual: 117, expected: 117 
+TEST SUCCEEDED: actual: 20, expected: 20 
+TEST SUCCEEDED: actual: 0, expected: 0 
+estate unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+duchy unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+province unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+gardens unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+curse unchanged test
+TEST SUCCEEDED: actual: 30, expected: 30 
+smithy unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+adventurer unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+embargo unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+village unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+minion unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+mine unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+cutpurse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+sea hag unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+tribute unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+council room unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+other player hand count = 348, expected = 348
+other player deck count = 50, expected = 50
+other player discard count = 90, expected = 90
+TEST SUCCEEDED: actual: 50, expected: 50 
+TEST SUCCEEDED: actual: 90, expected: 90 
+TEST SUCCEEDED: actual: 348, expected: 348 
+other player hand count = 93, expected = 93
+other player deck count = 103, expected = 103
+other player discard count = 122, expected = 122
+TEST SUCCEEDED: actual: 103, expected: 103 
+TEST SUCCEEDED: actual: 122, expected: 122 
+TEST SUCCEEDED: actual: 93, expected: 93 
+Current player state change check
+hand count = 106, expected = 106
+deck count = 174, expected = 174
+TEST SUCCEEDED: actual: 106, expected: 106 
+TEST SUCCEEDED: actual: 174, expected: 174 
+other player hand count = 41, expected = 41
+other player deck count = 94, expected = 94
+other player discard count = 79, expected = 79
+TEST SUCCEEDED: actual: 94, expected: 94 
+TEST SUCCEEDED: actual: 79, expected: 79 
+TEST SUCCEEDED: actual: 41, expected: 41 
+TEST SUCCEEDED: actual: 0, expected: 0 
+estate unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+duchy unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+province unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+gardens unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+curse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+smithy unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+adventurer unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+embargo unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+village unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+minion unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+mine unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+cutpurse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+sea hag unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+tribute unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+council room unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+Current player state change check
+hand count = 314, expected = 314
+deck count = 83, expected = 83
+TEST SUCCEEDED: actual: 314, expected: 314 
+TEST SUCCEEDED: actual: 83, expected: 83 
+other player hand count = 17, expected = 17
+other player deck count = 200, expected = 200
+other player discard count = 254, expected = 254
+TEST SUCCEEDED: actual: 200, expected: 200 
+TEST SUCCEEDED: actual: 254, expected: 254 
+TEST SUCCEEDED: actual: 17, expected: 17 
+TEST SUCCEEDED: actual: 0, expected: 0 
+estate unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+duchy unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+province unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+gardens unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+curse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+smithy unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+adventurer unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+embargo unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+village unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+minion unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+mine unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+cutpurse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+sea hag unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+tribute unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+council room unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+Current player state change check
+hand count = 58, expected = 58
+deck count = 193, expected = 193
+TEST SUCCEEDED: actual: 58, expected: 58 
+TEST SUCCEEDED: actual: 193, expected: 193 
+other player hand count = 62, expected = 62
+other player deck count = 41, expected = 41
+other player discard count = 189, expected = 189
+TEST SUCCEEDED: actual: 41, expected: 41 
+TEST SUCCEEDED: actual: 189, expected: 189 
+TEST SUCCEEDED: actual: 62, expected: 62 
+TEST SUCCEEDED: actual: 0, expected: 0 
+estate unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+duchy unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+province unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+gardens unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+curse unchanged test
+TEST SUCCEEDED: actual: 20, expected: 20 
+smithy unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+adventurer unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+embargo unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+village unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+minion unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+mine unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+cutpurse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+sea hag unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+tribute unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+council room unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+other player hand count = 106, expected = 106
+other player deck count = 101, expected = 101
+other player discard count = 189, expected = 189
+TEST SUCCEEDED: actual: 101, expected: 101 
+TEST SUCCEEDED: actual: 189, expected: 189 
+TEST SUCCEEDED: actual: 106, expected: 106 
+other player hand count = 95, expected = 95
+other player deck count = 238, expected = 238
+other player discard count = 19, expected = 19
+TEST SUCCEEDED: actual: 238, expected: 238 
+TEST SUCCEEDED: actual: 19, expected: 19 
+TEST SUCCEEDED: actual: 95, expected: 95 
+Current player state change check
+hand count = 143, expected = 143
+deck count = 232, expected = 232
+TEST SUCCEEDED: actual: 143, expected: 143 
+TEST SUCCEEDED: actual: 232, expected: 232 
+TEST SUCCEEDED: actual: 0, expected: 0 
+estate unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+duchy unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+province unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+gardens unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+curse unchanged test
+TEST SUCCEEDED: actual: 20, expected: 20 
+smithy unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+adventurer unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+embargo unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+village unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+minion unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+mine unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+cutpurse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+sea hag unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+tribute unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+council room unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+Current player state change check
+hand count = 39, expected = 39
+deck count = 56, expected = 56
+TEST SUCCEEDED: actual: 39, expected: 39 
+TEST SUCCEEDED: actual: 56, expected: 56 
+other player hand count = 321, expected = 321
+other player deck count = 148, expected = 148
+other player discard count = 24, expected = 24
+TEST SUCCEEDED: actual: 148, expected: 148 
+TEST SUCCEEDED: actual: 24, expected: 24 
+TEST SUCCEEDED: actual: 321, expected: 321 
+other player hand count = 53, expected = 53
+other player deck count = 156, expected = 156
+other player discard count = 216, expected = 216
+TEST SUCCEEDED: actual: 156, expected: 156 
+TEST SUCCEEDED: actual: 216, expected: 216 
+TEST SUCCEEDED: actual: 53, expected: 53 
+TEST SUCCEEDED: actual: 0, expected: 0 
+estate unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+duchy unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+province unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+gardens unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+curse unchanged test
+TEST SUCCEEDED: actual: 30, expected: 30 
+smithy unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+adventurer unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+embargo unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+village unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+minion unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+mine unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+cutpurse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+sea hag unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+tribute unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+council room unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+other player hand count = 109, expected = 109
+other player deck count = 205, expected = 205
+other player discard count = 90, expected = 90
+TEST SUCCEEDED: actual: 205, expected: 205 
+TEST SUCCEEDED: actual: 90, expected: 90 
+TEST SUCCEEDED: actual: 109, expected: 109 
+other player hand count = 228, expected = 228
+other player deck count = 41, expected = 41
+other player discard count = 199, expected = 199
+TEST SUCCEEDED: actual: 41, expected: 41 
+TEST SUCCEEDED: actual: 199, expected: 199 
+TEST SUCCEEDED: actual: 228, expected: 228 
+other player hand count = 6, expected = 6
+other player deck count = 145, expected = 145
+other player discard count = 152, expected = 152
+TEST SUCCEEDED: actual: 145, expected: 145 
+TEST SUCCEEDED: actual: 152, expected: 152 
+TEST SUCCEEDED: actual: 6, expected: 6 
+Current player state change check
+hand count = 17, expected = 17
+deck count = 49, expected = 49
+TEST SUCCEEDED: actual: 17, expected: 17 
+TEST SUCCEEDED: actual: 49, expected: 49 
+TEST SUCCEEDED: actual: 0, expected: 0 
+estate unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+duchy unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+province unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+gardens unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+curse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+smithy unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+adventurer unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+embargo unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+village unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+minion unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+mine unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+cutpurse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+sea hag unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+tribute unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+council room unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+Current player state change check
+hand count = 186, expected = 186
+deck count = 153, expected = 153
+TEST SUCCEEDED: actual: 186, expected: 186 
+TEST SUCCEEDED: actual: 153, expected: 153 
+other player hand count = 137, expected = 137
+other player deck count = 213, expected = 213
+other player discard count = 30, expected = 30
+TEST SUCCEEDED: actual: 213, expected: 213 
+TEST SUCCEEDED: actual: 30, expected: 30 
+TEST SUCCEEDED: actual: 137, expected: 137 
+TEST SUCCEEDED: actual: 0, expected: 0 
+estate unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+duchy unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+province unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+gardens unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+curse unchanged test
+TEST SUCCEEDED: actual: 30, expected: 30 
+smithy unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+adventurer unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+embargo unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+village unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+minion unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+mine unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+cutpurse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+sea hag unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+tribute unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+council room unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+Current player state change check
+hand count = 69, expected = 69
+deck count = 278, expected = -2
+TEST SUCCEEDED: actual: 69, expected: 69 
+TEST FAILED: actual: 278, expected: -2 
+other player hand count = 9, expected = 9
+other player deck count = 81, expected = 81
+other player discard count = 256, expected = 256
+TEST SUCCEEDED: actual: 81, expected: 81 
+TEST SUCCEEDED: actual: 256, expected: 256 
+TEST SUCCEEDED: actual: 9, expected: 9 
+other player hand count = 62, expected = 62
+other player deck count = 240, expected = 240
+other player discard count = 143, expected = 143
+TEST SUCCEEDED: actual: 240, expected: 240 
+TEST SUCCEEDED: actual: 143, expected: 143 
+TEST SUCCEEDED: actual: 62, expected: 62 
+other player hand count = 384, expected = 384
+other player deck count = 7, expected = 7
+other player discard count = 21, expected = 21
+TEST SUCCEEDED: actual: 7, expected: 7 
+TEST SUCCEEDED: actual: 21, expected: 21 
+TEST SUCCEEDED: actual: 384, expected: 384 
+TEST SUCCEEDED: actual: 0, expected: 0 
+estate unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+duchy unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+province unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+gardens unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+curse unchanged test
+TEST SUCCEEDED: actual: 30, expected: 30 
+smithy unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+adventurer unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+embargo unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+village unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+minion unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+mine unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+cutpurse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+sea hag unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+tribute unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+council room unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+other player hand count = 186, expected = 186
+other player deck count = 192, expected = 192
+other player discard count = 73, expected = 73
+TEST SUCCEEDED: actual: 192, expected: 192 
+TEST SUCCEEDED: actual: 73, expected: 73 
+TEST SUCCEEDED: actual: 186, expected: 186 
+other player hand count = 257, expected = 257
+other player deck count = 31, expected = 31
+other player discard count = 96, expected = 96
+TEST SUCCEEDED: actual: 31, expected: 31 
+TEST SUCCEEDED: actual: 96, expected: 96 
+TEST SUCCEEDED: actual: 257, expected: 257 
+other player hand count = 147, expected = 147
+other player deck count = 10, expected = 10
+other player discard count = 49, expected = 49
+TEST SUCCEEDED: actual: 10, expected: 10 
+TEST SUCCEEDED: actual: 49, expected: 49 
+TEST SUCCEEDED: actual: 147, expected: 147 
+Current player state change check
+hand count = 18, expected = 18
+deck count = 285, expected = 285
+TEST SUCCEEDED: actual: 18, expected: 18 
+TEST SUCCEEDED: actual: 285, expected: 285 
+TEST SUCCEEDED: actual: 0, expected: 0 
+estate unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+duchy unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+province unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+gardens unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+curse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+smithy unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+adventurer unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+embargo unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+village unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+minion unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+mine unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+cutpurse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+sea hag unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+tribute unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+council room unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+other player hand count = 98, expected = 98
+other player deck count = 1, expected = 1
+other player discard count = 170, expected = 170
+TEST SUCCEEDED: actual: 1, expected: 1 
+TEST SUCCEEDED: actual: 170, expected: 170 
+TEST SUCCEEDED: actual: 98, expected: 98 
+Current player state change check
+hand count = 266, expected = 266
+deck count = 161, expected = 161
+TEST SUCCEEDED: actual: 266, expected: 266 
+TEST SUCCEEDED: actual: 161, expected: 161 
+TEST SUCCEEDED: actual: 0, expected: 0 
+estate unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+duchy unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+province unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+gardens unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+curse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+smithy unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+adventurer unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+embargo unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+village unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+minion unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+mine unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+cutpurse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+sea hag unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+tribute unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+council room unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+other player hand count = 125, expected = 125
+other player deck count = 19, expected = 19
+other player discard count = 193, expected = 193
+TEST SUCCEEDED: actual: 19, expected: 19 
+TEST SUCCEEDED: actual: 193, expected: 193 
+TEST SUCCEEDED: actual: 125, expected: 125 
+Current player state change check
+hand count = 253, expected = 253
+deck count = 71, expected = 71
+TEST SUCCEEDED: actual: 253, expected: 253 
+TEST SUCCEEDED: actual: 71, expected: 71 
+TEST SUCCEEDED: actual: 0, expected: 0 
+estate unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+duchy unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+province unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+gardens unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+curse unchanged test
+TEST SUCCEEDED: actual: 30, expected: 30 
+smithy unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+adventurer unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+embargo unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+village unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+minion unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+mine unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+cutpurse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+sea hag unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+tribute unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+council room unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+other player hand count = 204, expected = 204
+other player deck count = 27, expected = 27
+other player discard count = 25, expected = 25
+TEST SUCCEEDED: actual: 27, expected: 27 
+TEST SUCCEEDED: actual: 25, expected: 25 
+TEST SUCCEEDED: actual: 204, expected: 204 
+other player hand count = 6, expected = 6
+other player deck count = 228, expected = 228
+other player discard count = 153, expected = 153
+TEST SUCCEEDED: actual: 228, expected: 228 
+TEST SUCCEEDED: actual: 153, expected: 153 
+TEST SUCCEEDED: actual: 6, expected: 6 
+other player hand count = 7, expected = 7
+other player deck count = 201, expected = 201
+other player discard count = 227, expected = 227
+TEST SUCCEEDED: actual: 201, expected: 201 
+TEST SUCCEEDED: actual: 227, expected: 227 
+TEST SUCCEEDED: actual: 7, expected: 7 
+Current player state change check
+hand count = 23, expected = 23
+deck count = 13, expected = 13
+TEST SUCCEEDED: actual: 23, expected: 23 
+TEST SUCCEEDED: actual: 13, expected: 13 
+TEST SUCCEEDED: actual: 0, expected: 0 
+estate unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+duchy unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+province unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+gardens unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+curse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+smithy unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+adventurer unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+embargo unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+village unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+minion unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+mine unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+cutpurse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+sea hag unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+tribute unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+council room unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+other player hand count = 148, expected = 148
+other player deck count = 3, expected = 3
+other player discard count = 91, expected = 91
+TEST SUCCEEDED: actual: 3, expected: 3 
+TEST SUCCEEDED: actual: 91, expected: 91 
+TEST SUCCEEDED: actual: 148, expected: 148 
+Current player state change check
+hand count = 145, expected = 145
+deck count = 11, expected = 11
+TEST SUCCEEDED: actual: 145, expected: 145 
+TEST SUCCEEDED: actual: 11, expected: 11 
+TEST SUCCEEDED: actual: 0, expected: 0 
+estate unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+duchy unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+province unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+gardens unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+curse unchanged test
+TEST SUCCEEDED: actual: 20, expected: 20 
+smithy unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+adventurer unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+embargo unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+village unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+minion unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+mine unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+cutpurse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+sea hag unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+tribute unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+council room unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+other player hand count = 191, expected = 191
+other player deck count = 22, expected = 22
+other player discard count = 151, expected = 151
+TEST SUCCEEDED: actual: 22, expected: 22 
+TEST SUCCEEDED: actual: 151, expected: 151 
+TEST SUCCEEDED: actual: 191, expected: 191 
+Current player state change check
+hand count = 72, expected = 72
+deck count = 198, expected = 198
+TEST SUCCEEDED: actual: 72, expected: 72 
+TEST SUCCEEDED: actual: 198, expected: 198 
+other player hand count = 69, expected = 69
+other player deck count = 72, expected = 72
+other player discard count = 292, expected = 292
+TEST SUCCEEDED: actual: 72, expected: 72 
+TEST SUCCEEDED: actual: 292, expected: 292 
+TEST SUCCEEDED: actual: 69, expected: 69 
+TEST SUCCEEDED: actual: 0, expected: 0 
+estate unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+duchy unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+province unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+gardens unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+curse unchanged test
+TEST SUCCEEDED: actual: 30, expected: 30 
+smithy unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+adventurer unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+embargo unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+village unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+minion unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+mine unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+cutpurse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+sea hag unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+tribute unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+council room unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+other player hand count = 5, expected = 5
+other player deck count = 157, expected = 157
+other player discard count = 207, expected = 207
+TEST SUCCEEDED: actual: 157, expected: 157 
+TEST SUCCEEDED: actual: 207, expected: 207 
+TEST SUCCEEDED: actual: 5, expected: 5 
+Current player state change check
+hand count = 106, expected = 106
+deck count = 60, expected = 60
+TEST SUCCEEDED: actual: 106, expected: 106 
+TEST SUCCEEDED: actual: 60, expected: 60 
+other player hand count = 55, expected = 55
+other player deck count = 317, expected = 317
+other player discard count = 106, expected = 106
+TEST SUCCEEDED: actual: 317, expected: 317 
+TEST SUCCEEDED: actual: 106, expected: 106 
+TEST SUCCEEDED: actual: 55, expected: 55 
+other player hand count = 323, expected = 323
+other player deck count = 68, expected = 68
+other player discard count = 100, expected = 100
+TEST SUCCEEDED: actual: 68, expected: 68 
+TEST SUCCEEDED: actual: 100, expected: 100 
+TEST SUCCEEDED: actual: 323, expected: 323 
+TEST SUCCEEDED: actual: 0, expected: 0 
+estate unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+duchy unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+province unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+gardens unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+curse unchanged test
+TEST SUCCEEDED: actual: 30, expected: 30 
+smithy unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+adventurer unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+embargo unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+village unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+minion unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+mine unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+cutpurse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+sea hag unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+tribute unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+council room unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+Current player state change check
+hand count = 346, expected = 346
+deck count = 84, expected = 84
+TEST SUCCEEDED: actual: 346, expected: 346 
+TEST SUCCEEDED: actual: 84, expected: 84 
+other player hand count = 226, expected = 226
+other player deck count = 32, expected = 32
+other player discard count = 33, expected = 33
+TEST SUCCEEDED: actual: 32, expected: 32 
+TEST SUCCEEDED: actual: 33, expected: 33 
+TEST SUCCEEDED: actual: 226, expected: 226 
+other player hand count = 63, expected = 63
+other player deck count = 89, expected = 89
+other player discard count = 188, expected = 188
+TEST SUCCEEDED: actual: 89, expected: 89 
+TEST SUCCEEDED: actual: 188, expected: 188 
+TEST SUCCEEDED: actual: 63, expected: 63 
+other player hand count = 166, expected = 166
+other player deck count = 45, expected = 45
+other player discard count = 252, expected = 252
+TEST SUCCEEDED: actual: 45, expected: 45 
+TEST SUCCEEDED: actual: 252, expected: 252 
+TEST SUCCEEDED: actual: 166, expected: 166 
+TEST SUCCEEDED: actual: 0, expected: 0 
+estate unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+duchy unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+province unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+gardens unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+curse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+smithy unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+adventurer unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+embargo unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+village unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+minion unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+mine unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+cutpurse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+sea hag unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+tribute unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+council room unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+other player hand count = 90, expected = 90
+other player deck count = 70, expected = 70
+other player discard count = 53, expected = 53
+TEST SUCCEEDED: actual: 70, expected: 70 
+TEST SUCCEEDED: actual: 53, expected: 53 
+TEST SUCCEEDED: actual: 90, expected: 90 
+Current player state change check
+hand count = 307, expected = 307
+deck count = 2, expected = 2
+TEST SUCCEEDED: actual: 307, expected: 307 
+TEST SUCCEEDED: actual: 2, expected: 2 
+TEST SUCCEEDED: actual: 0, expected: 0 
+estate unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+duchy unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+province unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+gardens unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+curse unchanged test
+TEST SUCCEEDED: actual: 30, expected: 30 
+smithy unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+adventurer unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+embargo unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+village unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+minion unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+mine unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+cutpurse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+sea hag unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+tribute unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+council room unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+other player hand count = 27, expected = 27
+other player deck count = 7, expected = 7
+other player discard count = 28, expected = 28
+TEST SUCCEEDED: actual: 7, expected: 7 
+TEST SUCCEEDED: actual: 28, expected: 28 
+TEST SUCCEEDED: actual: 27, expected: 27 
+Current player state change check
+hand count = 157, expected = 157
+deck count = 275, expected = 275
+TEST SUCCEEDED: actual: 157, expected: 157 
+TEST SUCCEEDED: actual: 275, expected: 275 
+other player hand count = 56, expected = 56
+other player deck count = 188, expected = 188
+other player discard count = 118, expected = 118
+TEST SUCCEEDED: actual: 188, expected: 188 
+TEST SUCCEEDED: actual: 118, expected: 118 
+TEST SUCCEEDED: actual: 56, expected: 56 
+other player hand count = 221, expected = 221
+other player deck count = 39, expected = 39
+other player discard count = 202, expected = 202
+TEST SUCCEEDED: actual: 39, expected: 39 
+TEST SUCCEEDED: actual: 202, expected: 202 
+TEST SUCCEEDED: actual: 221, expected: 221 
+TEST SUCCEEDED: actual: 0, expected: 0 
+estate unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+duchy unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+province unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+gardens unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+curse unchanged test
+TEST SUCCEEDED: actual: 30, expected: 30 
+smithy unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+adventurer unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+embargo unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+village unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+minion unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+mine unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+cutpurse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+sea hag unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+tribute unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+council room unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+other player hand count = 186, expected = 186
+other player deck count = 36, expected = 36
+other player discard count = 194, expected = 194
+TEST SUCCEEDED: actual: 36, expected: 36 
+TEST SUCCEEDED: actual: 194, expected: 194 
+TEST SUCCEEDED: actual: 186, expected: 186 
+Current player state change check
+hand count = 223, expected = 223
+deck count = 5, expected = 5
+TEST SUCCEEDED: actual: 223, expected: 223 
+TEST SUCCEEDED: actual: 5, expected: 5 
+other player hand count = 250, expected = 250
+other player deck count = 1, expected = 1
+other player discard count = 159, expected = 159
+TEST SUCCEEDED: actual: 1, expected: 1 
+TEST SUCCEEDED: actual: 159, expected: 159 
+TEST SUCCEEDED: actual: 250, expected: 250 
+other player hand count = 22, expected = 22
+other player deck count = 41, expected = 41
+other player discard count = 29, expected = 29
+TEST SUCCEEDED: actual: 41, expected: 41 
+TEST SUCCEEDED: actual: 29, expected: 29 
+TEST SUCCEEDED: actual: 22, expected: 22 
+TEST SUCCEEDED: actual: 0, expected: 0 
+estate unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+duchy unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+province unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+gardens unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+curse unchanged test
+TEST SUCCEEDED: actual: 30, expected: 30 
+smithy unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+adventurer unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+embargo unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+village unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+minion unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+mine unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+cutpurse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+sea hag unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+tribute unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+council room unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+other player hand count = 12, expected = 12
+other player deck count = 290, expected = 290
+other player discard count = 190, expected = 190
+TEST SUCCEEDED: actual: 290, expected: 290 
+TEST SUCCEEDED: actual: 190, expected: 190 
+TEST SUCCEEDED: actual: 12, expected: 12 
+Current player state change check
+hand count = 181, expected = 181
+deck count = 53, expected = 53
+TEST SUCCEEDED: actual: 181, expected: 181 
+TEST SUCCEEDED: actual: 53, expected: 53 
+other player hand count = 16, expected = 16
+other player deck count = 197, expected = 197
+other player discard count = 259, expected = 259
+TEST SUCCEEDED: actual: 197, expected: 197 
+TEST SUCCEEDED: actual: 259, expected: 259 
+TEST SUCCEEDED: actual: 16, expected: 16 
+other player hand count = 392, expected = 392
+other player deck count = 12, expected = 12
+other player discard count = 8, expected = 8
+TEST SUCCEEDED: actual: 12, expected: 12 
+TEST SUCCEEDED: actual: 8, expected: 8 
+TEST SUCCEEDED: actual: 392, expected: 392 
+TEST SUCCEEDED: actual: 0, expected: 0 
+estate unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+duchy unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+province unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+gardens unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+curse unchanged test
+TEST SUCCEEDED: actual: 30, expected: 30 
+smithy unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+adventurer unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+embargo unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+village unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+minion unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+mine unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+cutpurse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+sea hag unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+tribute unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+council room unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+other player hand count = 88, expected = 88
+other player deck count = 43, expected = 43
+other player discard count = 128, expected = 128
+TEST SUCCEEDED: actual: 43, expected: 43 
+TEST SUCCEEDED: actual: 128, expected: 128 
+TEST SUCCEEDED: actual: 88, expected: 88 
+other player hand count = 11, expected = 11
+other player deck count = 8, expected = 8
+other player discard count = 264, expected = 264
+TEST SUCCEEDED: actual: 8, expected: 8 
+TEST SUCCEEDED: actual: 264, expected: 264 
+TEST SUCCEEDED: actual: 11, expected: 11 
+other player hand count = 70, expected = 70
+other player deck count = 207, expected = 207
+other player discard count = 122, expected = 122
+TEST SUCCEEDED: actual: 207, expected: 207 
+TEST SUCCEEDED: actual: 122, expected: 122 
+TEST SUCCEEDED: actual: 70, expected: 70 
+Current player state change check
+hand count = 269, expected = 269
+deck count = 152, expected = 152
+TEST SUCCEEDED: actual: 269, expected: 269 
+TEST SUCCEEDED: actual: 152, expected: 152 
+TEST SUCCEEDED: actual: 0, expected: 0 
+estate unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+duchy unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+province unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+gardens unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+curse unchanged test
+TEST SUCCEEDED: actual: 20, expected: 20 
+smithy unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+adventurer unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+embargo unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+village unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+minion unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+mine unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+cutpurse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+sea hag unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+tribute unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+council room unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+other player hand count = 361, expected = 361
+other player deck count = 78, expected = 78
+other player discard count = 53, expected = 53
+TEST SUCCEEDED: actual: 78, expected: 78 
+TEST SUCCEEDED: actual: 53, expected: 53 
+TEST SUCCEEDED: actual: 361, expected: 361 
+Current player state change check
+hand count = 110, expected = 110
+deck count = 133, expected = 133
+TEST SUCCEEDED: actual: 110, expected: 110 
+TEST SUCCEEDED: actual: 133, expected: 133 
+other player hand count = 262, expected = 262
+other player deck count = 30, expected = 30
+other player discard count = 72, expected = 72
+TEST SUCCEEDED: actual: 30, expected: 30 
+TEST SUCCEEDED: actual: 72, expected: 72 
+TEST SUCCEEDED: actual: 262, expected: 262 
+TEST SUCCEEDED: actual: 0, expected: 0 
+estate unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+duchy unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+province unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+gardens unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+curse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+smithy unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+adventurer unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+embargo unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+village unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+minion unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+mine unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+cutpurse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+sea hag unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+tribute unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+council room unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+Current player state change check
+hand count = 218, expected = 218
+deck count = 159, expected = 159
+TEST SUCCEEDED: actual: 218, expected: 218 
+TEST SUCCEEDED: actual: 159, expected: 159 
+other player hand count = 201, expected = 201
+other player deck count = 150, expected = 150
+other player discard count = 70, expected = 70
+TEST SUCCEEDED: actual: 150, expected: 150 
+TEST SUCCEEDED: actual: 70, expected: 70 
+TEST SUCCEEDED: actual: 201, expected: 201 
+TEST SUCCEEDED: actual: 0, expected: 0 
+estate unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+duchy unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+province unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+gardens unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+curse unchanged test
+TEST SUCCEEDED: actual: 30, expected: 30 
+smithy unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+adventurer unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+embargo unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+village unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+minion unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+mine unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+cutpurse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+sea hag unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+tribute unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+council room unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+other player hand count = 96, expected = 96
+other player deck count = 256, expected = 256
+other player discard count = 134, expected = 134
+TEST SUCCEEDED: actual: 256, expected: 256 
+TEST SUCCEEDED: actual: 134, expected: 134 
+TEST SUCCEEDED: actual: 96, expected: 96 
+Current player state change check
+hand count = 206, expected = 206
+deck count = 185, expected = 185
+TEST SUCCEEDED: actual: 206, expected: 206 
+TEST SUCCEEDED: actual: 185, expected: 185 
+other player hand count = 111, expected = 111
+other player deck count = 145, expected = 145
+other player discard count = 35, expected = 35
+TEST SUCCEEDED: actual: 145, expected: 145 
+TEST SUCCEEDED: actual: 35, expected: 35 
+TEST SUCCEEDED: actual: 111, expected: 111 
+other player hand count = 39, expected = 39
+other player deck count = 153, expected = 153
+other player discard count = 125, expected = 125
+TEST SUCCEEDED: actual: 153, expected: 153 
+TEST SUCCEEDED: actual: 125, expected: 125 
+TEST SUCCEEDED: actual: 39, expected: 39 
+TEST SUCCEEDED: actual: 0, expected: 0 
+estate unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+duchy unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+province unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+gardens unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+curse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+smithy unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+adventurer unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+embargo unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+village unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+minion unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+mine unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+cutpurse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+sea hag unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+tribute unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+council room unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+other player hand count = 102, expected = 102
+other player deck count = 71, expected = 71
+other player discard count = 117, expected = 117
+TEST SUCCEEDED: actual: 71, expected: 71 
+TEST SUCCEEDED: actual: 117, expected: 117 
+TEST SUCCEEDED: actual: 102, expected: 102 
+Current player state change check
+hand count = 201, expected = 201
+deck count = 130, expected = 130
+TEST SUCCEEDED: actual: 201, expected: 201 
+TEST SUCCEEDED: actual: 130, expected: 130 
+TEST SUCCEEDED: actual: 0, expected: 0 
+estate unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+duchy unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+province unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+gardens unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+curse unchanged test
+TEST SUCCEEDED: actual: 30, expected: 30 
+smithy unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+adventurer unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+embargo unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+village unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+minion unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+mine unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+cutpurse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+sea hag unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+tribute unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+council room unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+other player hand count = 123, expected = 123
+other player deck count = 147, expected = 147
+other player discard count = 222, expected = 222
+TEST SUCCEEDED: actual: 147, expected: 147 
+TEST SUCCEEDED: actual: 222, expected: 222 
+TEST SUCCEEDED: actual: 123, expected: 123 
+Current player state change check
+hand count = 256, expected = 256
+deck count = 99, expected = 99
+TEST SUCCEEDED: actual: 256, expected: 256 
+TEST SUCCEEDED: actual: 99, expected: 99 
+other player hand count = 30, expected = 30
+other player deck count = 168, expected = 168
+other player discard count = 202, expected = 202
+TEST SUCCEEDED: actual: 168, expected: 168 
+TEST SUCCEEDED: actual: 202, expected: 202 
+TEST SUCCEEDED: actual: 30, expected: 30 
+other player hand count = 208, expected = 208
+other player deck count = 176, expected = 176
+other player discard count = 60, expected = 60
+TEST SUCCEEDED: actual: 176, expected: 176 
+TEST SUCCEEDED: actual: 60, expected: 60 
+TEST SUCCEEDED: actual: 208, expected: 208 
+TEST SUCCEEDED: actual: 0, expected: 0 
+estate unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+duchy unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+province unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+gardens unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+curse unchanged test
+TEST SUCCEEDED: actual: 20, expected: 20 
+smithy unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+adventurer unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+embargo unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+village unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+minion unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+mine unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+cutpurse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+sea hag unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+tribute unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+council room unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+other player hand count = 44, expected = 44
+other player deck count = 253, expected = 253
+other player discard count = 191, expected = 191
+TEST SUCCEEDED: actual: 253, expected: 253 
+TEST SUCCEEDED: actual: 191, expected: 191 
+TEST SUCCEEDED: actual: 44, expected: 44 
+other player hand count = 210, expected = 210
+other player deck count = 213, expected = 213
+other player discard count = 53, expected = 53
+TEST SUCCEEDED: actual: 213, expected: 213 
+TEST SUCCEEDED: actual: 53, expected: 53 
+TEST SUCCEEDED: actual: 210, expected: 210 
+Current player state change check
+hand count = 18, expected = 18
+deck count = 339, expected = 339
+TEST SUCCEEDED: actual: 18, expected: 18 
+TEST SUCCEEDED: actual: 339, expected: 339 
+TEST SUCCEEDED: actual: 0, expected: 0 
+estate unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+duchy unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+province unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+gardens unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+curse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+smithy unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+adventurer unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+embargo unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+village unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+minion unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+mine unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+cutpurse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+sea hag unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+tribute unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+council room unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+other player hand count = 255, expected = 255
+other player deck count = 38, expected = 38
+other player discard count = 131, expected = 131
+TEST SUCCEEDED: actual: 38, expected: 38 
+TEST SUCCEEDED: actual: 131, expected: 131 
+TEST SUCCEEDED: actual: 255, expected: 255 
+Current player state change check
+hand count = 52, expected = 52
+deck count = 181, expected = 181
+TEST SUCCEEDED: actual: 52, expected: 52 
+TEST SUCCEEDED: actual: 181, expected: 181 
+TEST SUCCEEDED: actual: 0, expected: 0 
+estate unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+duchy unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+province unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+gardens unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+curse unchanged test
+TEST SUCCEEDED: actual: 30, expected: 30 
+smithy unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+adventurer unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+embargo unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+village unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+minion unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+mine unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+cutpurse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+sea hag unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+tribute unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+council room unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+other player hand count = 53, expected = 53
+other player deck count = 5, expected = 5
+other player discard count = 179, expected = 179
+TEST SUCCEEDED: actual: 5, expected: 5 
+TEST SUCCEEDED: actual: 179, expected: 179 
+TEST SUCCEEDED: actual: 53, expected: 53 
+Current player state change check
+hand count = 137, expected = 137
+deck count = 13, expected = 13
+TEST SUCCEEDED: actual: 137, expected: 137 
+TEST SUCCEEDED: actual: 13, expected: 13 
+other player hand count = 165, expected = 165
+other player deck count = 213, expected = 213
+other player discard count = 33, expected = 33
+TEST SUCCEEDED: actual: 213, expected: 213 
+TEST SUCCEEDED: actual: 33, expected: 33 
+TEST SUCCEEDED: actual: 165, expected: 165 
+other player hand count = 89, expected = 89
+other player deck count = 15, expected = 15
+other player discard count = 278, expected = 278
+TEST SUCCEEDED: actual: 15, expected: 15 
+TEST SUCCEEDED: actual: 278, expected: 278 
+TEST SUCCEEDED: actual: 89, expected: 89 
+TEST SUCCEEDED: actual: 0, expected: 0 
+estate unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+duchy unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+province unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+gardens unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+curse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+smithy unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+adventurer unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+embargo unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+village unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+minion unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+mine unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+cutpurse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+sea hag unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+tribute unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+council room unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+other player hand count = 35, expected = 35
+other player deck count = 208, expected = 208
+other player discard count = 136, expected = 136
+TEST SUCCEEDED: actual: 208, expected: 208 
+TEST SUCCEEDED: actual: 136, expected: 136 
+TEST SUCCEEDED: actual: 35, expected: 35 
+Current player state change check
+hand count = 89, expected = 89
+deck count = 1, expected = 1
+TEST SUCCEEDED: actual: 89, expected: 89 
+TEST SUCCEEDED: actual: 1, expected: 1 
+TEST SUCCEEDED: actual: 0, expected: 0 
+estate unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+duchy unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+province unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+gardens unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+curse unchanged test
+TEST SUCCEEDED: actual: 20, expected: 20 
+smithy unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+adventurer unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+embargo unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+village unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+minion unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+mine unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+cutpurse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+sea hag unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+tribute unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+council room unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+other player hand count = 65, expected = 65
+other player deck count = 37, expected = 37
+other player discard count = 200, expected = 200
+TEST SUCCEEDED: actual: 37, expected: 37 
+TEST SUCCEEDED: actual: 200, expected: 200 
+TEST SUCCEEDED: actual: 65, expected: 65 
+Current player state change check
+hand count = 81, expected = 81
+deck count = 174, expected = 174
+TEST SUCCEEDED: actual: 81, expected: 81 
+TEST SUCCEEDED: actual: 174, expected: 174 
+other player hand count = 70, expected = 70
+other player deck count = 120, expected = 120
+other player discard count = 161, expected = 161
+TEST SUCCEEDED: actual: 120, expected: 120 
+TEST SUCCEEDED: actual: 161, expected: 161 
+TEST SUCCEEDED: actual: 70, expected: 70 
+TEST SUCCEEDED: actual: 0, expected: 0 
+estate unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+duchy unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+province unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+gardens unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+curse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+smithy unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+adventurer unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+embargo unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+village unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+minion unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+mine unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+cutpurse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+sea hag unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+tribute unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+council room unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+other player hand count = 103, expected = 103
+other player deck count = 157, expected = 157
+other player discard count = 238, expected = 238
+TEST SUCCEEDED: actual: 157, expected: 157 
+TEST SUCCEEDED: actual: 238, expected: 238 
+TEST SUCCEEDED: actual: 103, expected: 103 
+Current player state change check
+hand count = 129, expected = 129
+deck count = 176, expected = 176
+TEST SUCCEEDED: actual: 129, expected: 129 
+TEST SUCCEEDED: actual: 176, expected: 176 
+TEST SUCCEEDED: actual: 0, expected: 0 
+estate unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+duchy unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+province unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+gardens unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+curse unchanged test
+TEST SUCCEEDED: actual: 20, expected: 20 
+smithy unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+adventurer unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+embargo unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+village unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+minion unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+mine unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+cutpurse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+sea hag unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+tribute unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+council room unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+other player hand count = 452, expected = 452
+other player deck count = 4, expected = 4
+other player discard count = 10, expected = 10
+TEST SUCCEEDED: actual: 4, expected: 4 
+TEST SUCCEEDED: actual: 10, expected: 10 
+TEST SUCCEEDED: actual: 452, expected: 452 
+other player hand count = 89, expected = 89
+other player deck count = 266, expected = 266
+other player discard count = 132, expected = 132
+TEST SUCCEEDED: actual: 266, expected: 266 
+TEST SUCCEEDED: actual: 132, expected: 132 
+TEST SUCCEEDED: actual: 89, expected: 89 
+Current player state change check
+hand count = 104, expected = 104
+deck count = 176, expected = 176
+TEST SUCCEEDED: actual: 104, expected: 104 
+TEST SUCCEEDED: actual: 176, expected: 176 
+TEST SUCCEEDED: actual: 0, expected: 0 
+estate unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+duchy unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+province unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+gardens unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+curse unchanged test
+TEST SUCCEEDED: actual: 30, expected: 30 
+smithy unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+adventurer unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+embargo unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+village unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+minion unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+mine unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+cutpurse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+sea hag unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+tribute unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+council room unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+Current player state change check
+hand count = 209, expected = 209
+deck count = 196, expected = 196
+TEST SUCCEEDED: actual: 209, expected: 209 
+TEST SUCCEEDED: actual: 196, expected: 196 
+other player hand count = 16, expected = 16
+other player deck count = 361, expected = 361
+other player discard count = 109, expected = 109
+TEST SUCCEEDED: actual: 361, expected: 361 
+TEST SUCCEEDED: actual: 109, expected: 109 
+TEST SUCCEEDED: actual: 16, expected: 16 
+other player hand count = 136, expected = 136
+other player deck count = 66, expected = 66
+other player discard count = 86, expected = 86
+TEST SUCCEEDED: actual: 66, expected: 66 
+TEST SUCCEEDED: actual: 86, expected: 86 
+TEST SUCCEEDED: actual: 136, expected: 136 
+other player hand count = 271, expected = 271
+other player deck count = 22, expected = 22
+other player discard count = 187, expected = 187
+TEST SUCCEEDED: actual: 22, expected: 22 
+TEST SUCCEEDED: actual: 187, expected: 187 
+TEST SUCCEEDED: actual: 271, expected: 271 
+TEST SUCCEEDED: actual: 0, expected: 0 
+estate unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+duchy unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+province unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+gardens unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+curse unchanged test
+TEST SUCCEEDED: actual: 30, expected: 30 
+smithy unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+adventurer unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+embargo unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+village unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+minion unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+mine unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+cutpurse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+sea hag unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+tribute unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+council room unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+other player hand count = 59, expected = 59
+other player deck count = 210, expected = 210
+other player discard count = 123, expected = 123
+TEST SUCCEEDED: actual: 210, expected: 210 
+TEST SUCCEEDED: actual: 123, expected: 123 
+TEST SUCCEEDED: actual: 59, expected: 59 
+Current player state change check
+hand count = 183, expected = 183
+deck count = 4, expected = 4
+TEST SUCCEEDED: actual: 183, expected: 183 
+TEST SUCCEEDED: actual: 4, expected: 4 
+other player hand count = 126, expected = 126
+other player deck count = 35, expected = 35
+other player discard count = 25, expected = 25
+TEST SUCCEEDED: actual: 35, expected: 35 
+TEST SUCCEEDED: actual: 25, expected: 25 
+TEST SUCCEEDED: actual: 126, expected: 126 
+other player hand count = 97, expected = 97
+other player deck count = 156, expected = 156
+other player discard count = 165, expected = 165
+TEST SUCCEEDED: actual: 156, expected: 156 
+TEST SUCCEEDED: actual: 165, expected: 165 
+TEST SUCCEEDED: actual: 97, expected: 97 
+TEST SUCCEEDED: actual: 0, expected: 0 
+estate unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+duchy unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+province unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+gardens unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+curse unchanged test
+TEST SUCCEEDED: actual: 20, expected: 20 
+smithy unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+adventurer unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+embargo unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+village unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+minion unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+mine unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+cutpurse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+sea hag unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+tribute unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+council room unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+other player hand count = 117, expected = 117
+other player deck count = 151, expected = 151
+other player discard count = 183, expected = 183
+TEST SUCCEEDED: actual: 151, expected: 151 
+TEST SUCCEEDED: actual: 183, expected: 183 
+TEST SUCCEEDED: actual: 117, expected: 117 
+Current player state change check
+hand count = 25, expected = 25
+deck count = 32, expected = 32
+TEST SUCCEEDED: actual: 25, expected: 25 
+TEST SUCCEEDED: actual: 32, expected: 32 
+other player hand count = 251, expected = 251
+other player deck count = 93, expected = 93
+other player discard count = 25, expected = 25
+TEST SUCCEEDED: actual: 93, expected: 93 
+TEST SUCCEEDED: actual: 25, expected: 25 
+TEST SUCCEEDED: actual: 251, expected: 251 
+TEST SUCCEEDED: actual: 0, expected: 0 
+estate unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+duchy unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+province unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+gardens unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+curse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+smithy unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+adventurer unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+embargo unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+village unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+minion unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+mine unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+cutpurse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+sea hag unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+tribute unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+council room unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+other player hand count = 124, expected = 124
+other player deck count = 143, expected = 143
+other player discard count = 52, expected = 52
+TEST SUCCEEDED: actual: 143, expected: 143 
+TEST SUCCEEDED: actual: 52, expected: 52 
+TEST SUCCEEDED: actual: 124, expected: 124 
+Current player state change check
+hand count = 166, expected = 166
+deck count = 26, expected = 26
+TEST SUCCEEDED: actual: 166, expected: 166 
+TEST SUCCEEDED: actual: 26, expected: 26 
+TEST SUCCEEDED: actual: 0, expected: 0 
+estate unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+duchy unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+province unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+gardens unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+curse unchanged test
+TEST SUCCEEDED: actual: 30, expected: 30 
+smithy unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+adventurer unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+embargo unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+village unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+minion unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+mine unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+cutpurse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+sea hag unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+tribute unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+council room unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+other player hand count = 161, expected = 161
+other player deck count = 170, expected = 170
+other player discard count = 84, expected = 84
+TEST SUCCEEDED: actual: 170, expected: 170 
+TEST SUCCEEDED: actual: 84, expected: 84 
+TEST SUCCEEDED: actual: 161, expected: 161 
+other player hand count = 214, expected = 214
+other player deck count = 15, expected = 15
+other player discard count = 218, expected = 218
+TEST SUCCEEDED: actual: 15, expected: 15 
+TEST SUCCEEDED: actual: 218, expected: 218 
+TEST SUCCEEDED: actual: 214, expected: 214 
+Current player state change check
+hand count = 101, expected = 101
+deck count = 302, expected = 302
+TEST SUCCEEDED: actual: 101, expected: 101 
+TEST SUCCEEDED: actual: 302, expected: 302 
+other player hand count = 53, expected = 53
+other player deck count = 134, expected = 134
+other player discard count = 57, expected = 57
+TEST SUCCEEDED: actual: 134, expected: 134 
+TEST SUCCEEDED: actual: 57, expected: 57 
+TEST SUCCEEDED: actual: 53, expected: 53 
+TEST SUCCEEDED: actual: 0, expected: 0 
+estate unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+duchy unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+province unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+gardens unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+curse unchanged test
+TEST SUCCEEDED: actual: 20, expected: 20 
+smithy unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+adventurer unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+embargo unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+village unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+minion unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+mine unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+cutpurse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+sea hag unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+tribute unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+council room unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+other player hand count = 253, expected = 253
+other player deck count = 161, expected = 161
+other player discard count = 11, expected = 11
+TEST SUCCEEDED: actual: 161, expected: 161 
+TEST SUCCEEDED: actual: 11, expected: 11 
+TEST SUCCEEDED: actual: 253, expected: 253 
+other player hand count = 42, expected = 42
+other player deck count = 337, expected = 337
+other player discard count = 43, expected = 43
+TEST SUCCEEDED: actual: 337, expected: 337 
+TEST SUCCEEDED: actual: 43, expected: 43 
+TEST SUCCEEDED: actual: 42, expected: 42 
+Current player state change check
+hand count = 195, expected = 195
+deck count = 25, expected = 25
+TEST SUCCEEDED: actual: 195, expected: 195 
+TEST SUCCEEDED: actual: 25, expected: 25 
+TEST SUCCEEDED: actual: 0, expected: 0 
+estate unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+duchy unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+province unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+gardens unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+curse unchanged test
+TEST SUCCEEDED: actual: 20, expected: 20 
+smithy unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+adventurer unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+embargo unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+village unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+minion unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+mine unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+cutpurse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+sea hag unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+tribute unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+council room unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+other player hand count = 25, expected = 25
+other player deck count = 68, expected = 68
+other player discard count = 37, expected = 37
+TEST SUCCEEDED: actual: 68, expected: 68 
+TEST SUCCEEDED: actual: 37, expected: 37 
+TEST SUCCEEDED: actual: 25, expected: 25 
+other player hand count = 38, expected = 38
+other player deck count = 48, expected = 48
+other player discard count = 46, expected = 46
+TEST SUCCEEDED: actual: 48, expected: 48 
+TEST SUCCEEDED: actual: 46, expected: 46 
+TEST SUCCEEDED: actual: 38, expected: 38 
+Current player state change check
+hand count = 12, expected = 12
+deck count = 78, expected = 78
+TEST SUCCEEDED: actual: 12, expected: 12 
+TEST SUCCEEDED: actual: 78, expected: 78 
+TEST SUCCEEDED: actual: 0, expected: 0 
+estate unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+duchy unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+province unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+gardens unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+curse unchanged test
+TEST SUCCEEDED: actual: 20, expected: 20 
+smithy unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+adventurer unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+embargo unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+village unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+minion unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+mine unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+cutpurse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+sea hag unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+tribute unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+council room unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+Current player state change check
+hand count = 26, expected = 26
+deck count = 68, expected = 68
+TEST SUCCEEDED: actual: 26, expected: 26 
+TEST SUCCEEDED: actual: 68, expected: 68 
+other player hand count = 318, expected = 318
+other player deck count = 97, expected = 97
+other player discard count = 80, expected = 80
+TEST SUCCEEDED: actual: 97, expected: 97 
+TEST SUCCEEDED: actual: 80, expected: 80 
+TEST SUCCEEDED: actual: 318, expected: 318 
+other player hand count = 29, expected = 29
+other player deck count = 166, expected = 166
+other player discard count = 25, expected = 25
+TEST SUCCEEDED: actual: 166, expected: 166 
+TEST SUCCEEDED: actual: 25, expected: 25 
+TEST SUCCEEDED: actual: 29, expected: 29 
+TEST SUCCEEDED: actual: 0, expected: 0 
+estate unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+duchy unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+province unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+gardens unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+curse unchanged test
+TEST SUCCEEDED: actual: 20, expected: 20 
+smithy unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+adventurer unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+embargo unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+village unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+minion unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+mine unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+cutpurse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+sea hag unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+tribute unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+council room unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+Current player state change check
+hand count = 10, expected = 10
+deck count = 368, expected = 368
+TEST SUCCEEDED: actual: 10, expected: 10 
+TEST SUCCEEDED: actual: 368, expected: 368 
+other player hand count = 48, expected = 48
+other player deck count = 109, expected = 109
+other player discard count = 307, expected = 307
+TEST SUCCEEDED: actual: 109, expected: 109 
+TEST SUCCEEDED: actual: 307, expected: 307 
+TEST SUCCEEDED: actual: 48, expected: 48 
+other player hand count = 45, expected = 45
+other player deck count = 42, expected = 42
+other player discard count = 258, expected = 258
+TEST SUCCEEDED: actual: 42, expected: 42 
+TEST SUCCEEDED: actual: 258, expected: 258 
+TEST SUCCEEDED: actual: 45, expected: 45 
+TEST SUCCEEDED: actual: 0, expected: 0 
+estate unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+duchy unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+province unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+gardens unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+curse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+smithy unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+adventurer unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+embargo unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+village unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+minion unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+mine unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+cutpurse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+sea hag unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+tribute unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+council room unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+Current player state change check
+hand count = 260, expected = 260
+deck count = 195, expected = 195
+TEST SUCCEEDED: actual: 260, expected: 260 
+TEST SUCCEEDED: actual: 195, expected: 195 
+other player hand count = 40, expected = 40
+other player deck count = 115, expected = 115
+other player discard count = 202, expected = 202
+TEST SUCCEEDED: actual: 115, expected: 115 
+TEST SUCCEEDED: actual: 202, expected: 202 
+TEST SUCCEEDED: actual: 40, expected: 40 
+TEST SUCCEEDED: actual: 0, expected: 0 
+estate unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+duchy unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+province unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+gardens unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+curse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+smithy unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+adventurer unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+embargo unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+village unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+minion unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+mine unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+cutpurse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+sea hag unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+tribute unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+council room unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+other player hand count = 6, expected = 6
+other player deck count = 25, expected = 25
+other player discard count = 465, expected = 465
+TEST SUCCEEDED: actual: 25, expected: 25 
+TEST SUCCEEDED: actual: 465, expected: 465 
+TEST SUCCEEDED: actual: 6, expected: 6 
+Current player state change check
+hand count = 71, expected = 71
+deck count = 110, expected = 110
+TEST SUCCEEDED: actual: 71, expected: 71 
+TEST SUCCEEDED: actual: 110, expected: 110 
+TEST SUCCEEDED: actual: 0, expected: 0 
+estate unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+duchy unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+province unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+gardens unchanged test
+TEST SUCCEEDED: actual: 12, expected: 12 
+curse unchanged test
+TEST SUCCEEDED: actual: 30, expected: 30 
+smithy unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+adventurer unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+embargo unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+village unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+minion unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+mine unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+cutpurse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+sea hag unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+tribute unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+council room unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+Current player state change check
+hand count = 142, expected = 142
+deck count = 126, expected = 126
+TEST SUCCEEDED: actual: 142, expected: 142 
+TEST SUCCEEDED: actual: 126, expected: 126 
+other player hand count = 90, expected = 90
+other player deck count = 141, expected = 141
+other player discard count = 64, expected = 64
+TEST SUCCEEDED: actual: 141, expected: 141 
+TEST SUCCEEDED: actual: 64, expected: 64 
+TEST SUCCEEDED: actual: 90, expected: 90 
+other player hand count = 44, expected = 44
+other player deck count = 80, expected = 80
+other player discard count = 28, expected = 28
+TEST SUCCEEDED: actual: 80, expected: 80 
+TEST SUCCEEDED: actual: 28, expected: 28 
+TEST SUCCEEDED: actual: 44, expected: 44 
+other player hand count = 196, expected = 196
+other player deck count = 53, expected = 53
+other player discard count = 46, expected = 46
+TEST SUCCEEDED: actual: 53, expected: 53 
+TEST SUCCEEDED: actual: 46, expected: 46 
+TEST SUCCEEDED: actual: 196, expected: 196 
+TEST SUCCEEDED: actual: 0, expected: 0 
+estate unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+duchy unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+province unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+gardens unchanged test
+TEST SUCCEEDED: actual: 8, expected: 8 
+curse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+smithy unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+adventurer unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+embargo unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+village unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+minion unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+mine unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+cutpurse unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+sea hag unchanged test
+TEST SUCCEEDED: actual: 10, expected: 10 
+tribute unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+council room unchanged test
+TEST SUCCEEDED: actual: -1, expected: -1 
+Current player state change check
+hand count = 253, expected = 253
+deck count = 15, expected = 15
+TEST SUCCEEDED: actual: 253, expected: 253 
+TEST SUCCEEDED: actual: 15, expected: 15 
+other player hand count = 117, expected = 117
+other player deck count = 5, expected = 5
+other player discard count = 83, expected = 83
+TEST SUCCEEDED: actual: 5, expected: 5 
+TEST SUCCEEDED: actual: 83, expected: 83 
+TEST SUCCEEDED: actual: 117, expected: 117 
+
+ >>>>> SUCCESS: Testing complete smithy <<<<<
+
+Function 'compare'
+Lines executed:100.00% of 6
+Branches executed:100.00% of 4
+Taken at least once:100.00% of 4
+No calls
+
+Function 'newGame'
+Lines executed:0.00% of 2
+No branches
+No calls
+
+Function 'kingdomCards'
+Lines executed:0.00% of 12
+No branches
+No calls
+
+Function 'initializeGame'
+Lines executed:96.15% of 78
+Branches executed:100.00% of 46
+Taken at least once:91.30% of 46
+No calls
+
+Function 'shuffle'
+Lines executed:100.00% of 18
+Branches executed:100.00% of 8
+Taken at least once:100.00% of 8
+No calls
+
+Function 'playCard'
+Lines executed:0.00% of 14
+Branches executed:0.00% of 10
+Taken at least once:0.00% of 10
+No calls
+
+Function 'buyCard'
+Lines executed:0.00% of 13
+Branches executed:0.00% of 6
+Taken at least once:0.00% of 6
+No calls
+
+Function 'numHandCards'
+Lines executed:100.00% of 1
+No branches
+No calls
+
+Function 'handCard'
+Lines executed:0.00% of 2
+No branches
+No calls
+
+Function 'supplyCount'
+Lines executed:0.00% of 1
+No branches
+No calls
+
+Function 'fullDeckCount'
+Lines executed:0.00% of 11
+Branches executed:0.00% of 12
+Taken at least once:0.00% of 12
+No calls
+
+Function 'whoseTurn'
+Lines executed:100.00% of 1
+No branches
+No calls
+
+Function 'endTurn'
+Lines executed:0.00% of 22
+Branches executed:0.00% of 6
+Taken at least once:0.00% of 6
+No calls
+
+Function 'isGameOver'
+Lines executed:0.00% of 12
+Branches executed:0.00% of 8
+Taken at least once:0.00% of 8
+No calls
+
+Function 'scoreFor'
+Lines executed:0.00% of 26
+Branches executed:0.00% of 42
+Taken at least once:0.00% of 42
+No calls
+
+Function 'getWinners'
+Lines executed:0.00% of 33
+Branches executed:0.00% of 22
+Taken at least once:0.00% of 22
+No calls
+
+Function 'drawCard'
+Lines executed:100.00% of 24
+Branches executed:100.00% of 6
+Taken at least once:100.00% of 6
+No calls
+
+Function 'getCost'
+Lines executed:0.00% of 30
+Branches executed:0.00% of 28
+Taken at least once:0.00% of 28
+No calls
+
+Function 'smithyCard'
+Lines executed:100.00% of 5
+Branches executed:100.00% of 2
+Taken at least once:100.00% of 2
+No calls
+
+Function 'adventurerCard'
+Lines executed:100.00% of 18
+Branches executed:100.00% of 10
+Taken at least once:100.00% of 10
+No calls
+
+Function 'council_roomCard'
+Lines executed:100.00% of 11
+Branches executed:100.00% of 6
+Taken at least once:100.00% of 6
+No calls
+
+Function 'villageCard'
+Lines executed:100.00% of 4
+No branches
+No calls
+
+Function 'minionCard'
+Lines executed:75.00% of 24
+Branches executed:77.78% of 18
+Taken at least once:66.67% of 18
+No calls
+
+Function 'greatHallCard'
+Lines executed:100.00% of 4
+No branches
+No calls
+
+Function 'embargoCard'
+Lines executed:85.71% of 7
+Branches executed:100.00% of 2
+Taken at least once:50.00% of 2
+No calls
+
+Function 'cardEffect'
+Lines executed:5.11% of 235
+Branches executed:14.29% of 161
+Taken at least once:2.48% of 161
+No calls
+
+Function 'discardCard'
+Lines executed:100.00% of 15
+Branches executed:100.00% of 6
+Taken at least once:100.00% of 6
+No calls
+
+Function 'gainCard'
+Lines executed:0.00% of 15
+Branches executed:0.00% of 6
+Taken at least once:0.00% of 6
+No calls
+
+Function 'updateCoins'
+Lines executed:71.43% of 14
+Branches executed:100.00% of 8
+Taken at least once:75.00% of 8
+No calls
+
+File 'dominion.c'
+Lines executed:34.65% of 658
+Branches executed:32.37% of 417
+Taken at least once:25.66% of 417
+No calls
+dominion.c:creating 'dominion.c.gcov'
+

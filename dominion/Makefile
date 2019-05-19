@@ -87,6 +87,33 @@ unittestresults:
 	./cardTest4 >> unittestresults.out
 	gcov -fb dominion.c  >> unittestresults.out
 
+randomtestcard1: randomtestcard1.c dominion.o rngs.o
+	gcc -o randomtestcard1 -g  randomtestcard1.c dominion.o rngs.o $(CFLAGS)
+
+randomtestcard2: randomtestcard2.c dominion.o rngs.o
+	gcc -o randomtestcard2 -g  randomtestcard2.c dominion.o rngs.o $(CFLAGS)
+
+randomtestadventurer: randomtestadventurer.c dominion.o rngs.o
+	gcc -o randomtestadventurer -g  randomtestadventurer.c dominion.o rngs.o $(CFLAGS)
+
+randomtestresults:
+	echo "randomtestcard1.c:" > randomtestcard1.out
+	make randomtestcard1
+	./randomtestcard1 >> randomtestcard1.out
+	gcov -fb dominion.c >> randomtestcard1.out
+
+	echo "randomtestcard2.c:" > randomtestcard2.out
+	make randomtestcard2
+	./randomtestcard2 >> randomtestcard2.out
+	gcov -fb dominion.c >> randomtestcard2.out
+
+	echo "randomtestadventurer.c:" > randomtestadventurer.out
+	make randomtestadventurer
+	./randomtestadventurer >> randomtestadventurer.out
+	gcov -fb dominion.c >> randomtestadventurer.out
+
+
+
 interface.o: interface.h interface.c
 	gcc -c interface.c -g  $(CFLAGS)
 
