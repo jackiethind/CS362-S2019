@@ -87,6 +87,7 @@ int customVillageTest(int choice1, int choice2, int choice3, struct gameState *G
 
         }
     }
+    return 0;
 }
 
 int main() {
@@ -103,7 +104,7 @@ int main() {
     printf("Random Tests\n");
 
     // begin by randomizing all parameters for the adventurer card function
-    for (int i = 0; i < 800; i++) {
+    for (int i = 0; i < 400; i++) {
 
         int numPlayers = rand() % 3 + 2;
         initializeGame(numPlayers, k, rand(), &G);
@@ -130,7 +131,7 @@ int main() {
         else {
             handPos = rand() % G.handCount[G.whoseTurn];
         }
-        customVillageTest(choice1, choice2, choice3, &G, handPos, bonus);
+        customVillageTest(choice1, choice2, choice3, &G, handPos, &bonus);
     }
     printf("\n >>>>> SUCCESS: Testing complete %s <<<<<\n\n", TESTCARD);
     return 0;

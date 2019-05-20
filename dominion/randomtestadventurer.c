@@ -137,6 +137,7 @@ int customAdventurerTest(int choice1, int choice2, int choice3, struct gameState
 
         }
     }
+    return 0;
 
 }
 
@@ -180,7 +181,7 @@ int main() {
         else {
             handPos = rand() % G.handCount[G.whoseTurn];
         }
-        customAdventurerTest(choice1, choice2, choice3, &G, handPos, bonus);
+        customAdventurerTest(choice1, choice2, choice3, &G, handPos, &bonus);
     }
 
     printf("\n >>>>> SUCCESS: Testing complete %s <<<<<\n\n", TESTCARD);

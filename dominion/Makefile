@@ -97,21 +97,20 @@ randomtestadventurer: randomtestadventurer.c dominion.o rngs.o
 	gcc -o randomtestadventurer -g  randomtestadventurer.c dominion.o rngs.o $(CFLAGS)
 
 randomtestresults:
-	echo "randomtestcard1.c:" > randomtestcard1.out
+	echo "randomtestcard1.c:" >> randomtestresults.out
 	make randomtestcard1
-	./randomtestcard1 >> randomtestcard1.out
-	gcov -fb dominion.c >> randomtestcard1.out
+	./randomtestcard1 >> randomtestresults.out
+	gcov -fb dominion.c >> randomtestresults.out
 
-	echo "randomtestcard2.c:" > randomtestcard2.out
+	echo "randomtestcard2.c:" >> randomtestresults.out
 	make randomtestcard2
-	./randomtestcard2 >> randomtestcard2.out
-	gcov -fb dominion.c >> randomtestcard2.out
+	./randomtestcard2 >> randomtestresults.out
+	gcov -fb dominion.c >> randomtestresults.out
 
-	echo "randomtestadventurer.c:" > randomtestadventurer.out
+	echo "randomtestadventurer.c:" >> randomtestresults.out
 	make randomtestadventurer
-	./randomtestadventurer >> randomtestadventurer.out
-	gcov -fb dominion.c >> randomtestadventurer.out
-
+	./randomtestadventurer >> randomtestresults.out
+	gcov -fb dominion.c >> randomtestresults.out
 
 
 interface.o: interface.h interface.c
