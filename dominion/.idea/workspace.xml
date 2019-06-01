@@ -34,20 +34,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Makefile" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Makefile" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Makefile">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="292">
-              <caret line="104" column="17" selection-start-line="104" selection-start-column="17" selection-end-line="104" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="randomtestcard1.out" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/randomtestcard1.out">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="13510" column="33" selection-start-line="13510" selection-start-column="33" selection-end-line="13510" selection-end-column="33" />
+            <state relative-caret-position="347">
+              <caret line="105" column="24" lean-forward="true" selection-start-line="105" selection-start-column="24" selection-end-line="105" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -55,7 +46,7 @@
       <file leaf-file-name="cardTest3.c" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cardTest3.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
+            <state relative-caret-position="181">
               <caret line="113" column="40" selection-start-line="113" selection-start-column="40" selection-end-line="113" selection-end-column="40" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
@@ -79,15 +70,15 @@
       <file leaf-file-name="randomtestresults.out" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/randomtestresults.out">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-3491590" />
+            <state relative-caret-position="-4985642" />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="randomtestcard1.c" pinned="false" current-in-tab="false">
+      <file leaf-file-name="randomtestcard1.c" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/randomtestcard1.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="326">
-              <caret line="134" column="5" selection-start-line="134" selection-start-column="5" selection-end-line="134" selection-end-column="5" />
+            <state relative-caret-position="195">
+              <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -260,18 +251,18 @@
       <workItem from="1556574389479" duration="15041000" />
       <workItem from="1556690014379" duration="50126000" />
       <workItem from="1557613745672" duration="4581000" />
-      <workItem from="1558207130334" duration="17300000" />
+      <workItem from="1558207130334" duration="17763000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="87048000" />
+    <option name="totallyTimeSpent" value="87511000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="993" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1493165" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1493165" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="CMake" order="7" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.18927445" side_tool="true" visible="true" weight="0.29326287" />
@@ -279,7 +270,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="make" order="3" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.81072557" visible="true" weight="0.29326287" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.81072557" visible="true" weight="0.29326287" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -663,16 +654,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cardTest3.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="113" column="40" selection-start-line="113" selection-start-column="40" selection-end-line="113" selection-end-column="40" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/unittest2.c">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="73">
@@ -710,21 +691,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/randomtestcard1.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
-          <caret line="134" column="5" selection-start-line="134" selection-start-column="5" selection-end-line="134" selection-end-column="5" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/randomtestresults.out">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3491590" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/randomtestcard1.out">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
@@ -734,8 +700,33 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Makefile">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="104" column="17" selection-start-line="104" selection-start-column="17" selection-end-line="104" selection-end-column="17" />
+        <state relative-caret-position="347">
+          <caret line="105" column="24" lean-forward="true" selection-start-line="105" selection-start-column="24" selection-end-line="105" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/randomtestresults.out">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4985642" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cardTest3.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="113" column="40" selection-start-line="113" selection-start-column="40" selection-end-line="113" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/randomtestcard1.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
