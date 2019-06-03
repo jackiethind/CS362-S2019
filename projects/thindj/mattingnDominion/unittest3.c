@@ -49,7 +49,7 @@ int main () {
 
     printf("TEST 1: + 4 cards \n");
     memcpy(&testG, &G, sizeof(struct gameState));
-    council_roomCard(&testG, whoseTurn(&testG), 9);
+    playCouncilRoom(&testG, 9);
 
     newCards = 4;
 
@@ -83,7 +83,7 @@ int main () {
     printf("TEST 4: Kingdom and Victory Cards unchanged \n");
 
     memcpy(&testG, &G, sizeof(struct gameState));
-    council_roomCard(&testG, whoseTurn(&testG), 9);
+    playCouncilRoom(&testG, 9);
 
     printf("estate unchanged test\n");
     customAssert(testG.supplyCount[estate], G.supplyCount[estate]);

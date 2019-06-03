@@ -1,76 +1,222 @@
-/**********************************************************************************
- * *Name: Nikita Mattingly
- * *Date: May 5, 2019
- * *File: cardtest3.c (council room)
- * *References: Used cardtest4.c and testUpdateCoins.c provided by the instructor
- * ********************************************************************************/ 
-#include "dominion.h"
+#include "assert.h"
 #include "dominion_helpers.h"
-#include <string.h>
+#include "dominion.h"
 #include <stdio.h>
-#include <assert.h>
 #include "rngs.h"
 #include <stdlib.h>
+#include <string.h>
 
-#define TESTCARD "council room"
+#define TESTCARD "adventurer"
 
-int main()
+/*
+ * Card Test for Adventurer Card
+ * Reveal cards from your deck until you reveal 2 treasure cards, put those cards in your hand and discard the other cards
+ * +
+*/
+
+
+int customAssert(int actual, int expected)
 {
-    int handpos = 0, choice1 = 0, choice2 = 0, choice3 = 0, bonus = 0;
-    int temp;
-    //used to randomize the result for shuffling
-    int seed = 1000;
-    
-    //the number of players
-    int numPlayers = 2;
+    if (actual == expected) {
+        printf("TEST SUCCEEDED: actual: %d, expected: %d \n", actual, expected);
 
-    int thisPlayer = 0;
+    }
+    else {
+        printf("TEST FAILED: actual: %d, expected: %d \n", actual, expected);
+    }
+    return 0;
+}
 
-    //holds a pointer to the gameState variable, in this case we have G and testG
+int main () {
     struct gameState G, testG;
+    int seed = 1000;
+    int discarded = 1;
+    int numPlayers = 2;
+    int newCards = 0;
+    int thisPlayer = 0;
+    int otherPlayer = 1;
+    int numToTreasure = 0;
 
-    //an array k of 10 kingdom cards avaliable for purchase
-	int k[10] = {adventurer, embargo, village, minion, mine, cutpurse, sea_hag, tribute, smithy, council_room};
+    int k[10] = {adventurer, gardens, embargo, village, minion, mine, cutpurse,
+                 sea_hag, great_hall, smithy};
 
-    
     // initialize a game state and player cards
-	initializeGame(numPlayers, k, seed, &G);
+    initializeGame(numPlayers, k, seed, &G);
 
     printf("----------------- Testing Card: %s ----------------\n", TESTCARD);
 
-    // copy the game state to a test case
-	memcpy(&testG, &G, sizeof(struct gameState));
-	choice1 = 1;
-	temp = numHandCards(&testG);
-    
-    //initializing cardEffect function for the council room card
-    cardEffect(council_room, choice1, choice2, choice3, &testG, handpos, &bonus);
-    
-    thisPlayer = whoseTurn(&testG);
+    printf("TEST 1: Drawing correct number of cards for treasure \n");
 
-    //Test 1: Testing to see if the player has the Council Room card within their hand
-    if (G.hand[thisPlayer][testG.handCount[thisPlayer]] != 1)
-        printf("TEST 1 PASSED: THE PLAYER HAS THE COUNCIL ROOM CARD");
-    else
-        printf("TEST 1 FAILED: THE PLAYER DOES NOT HAVE THE COUNCIL ROOM CARD");
+    testG.deck[thisPlayer][0] = mine;
+    testG.deck[thisPlayer][1] = silver;
+    testG.deck[thisPlayer][2] = mine;
+    testG.deck[thisPlayer][3] = mine;
+    testG.deck[thisPlayer][4] = mine;
+    testG.deck[thisPlayer][5] = silver;
 
-    
-    //Test 2: Test to see if the player played the council room card
-    if(testG.playedCardCount+2 == G.playedCardCount)
-        printf("TEST 2 PASSED: THE PLAYER PLAYED THE COUNCIL ROOMCARD");
-    else
-        printf("TEST 2 FAILED: THE PLAYER DID NOT PLAY THE COUNCIL ROOM CARD");
+    testG.deckCount[thisPlayer] = 6;
 
-    //Test 4: Test to see if the council room card is discarded from the hand
+    G.deck[thisPlayer][0] = mine;
+    G.deck[thisPlayer][1] = silver;
+    G.deck[thisPlayer][2] = mine;
+    G.deck[thisPlayer][3] = mine;
+    G.deck[thisPlayer][4] = mine;
+    G.deck[thisPlayer][5] = silver;
 
-    if (testG.discardCount[thisPlayer] == G.discardCount[thisPlayer])
-        printf("TEST 4: PASSED. COUNCIL ROOM CARD WAS DISCARDED\n");
-    else
-        printf("TEST 4: FAILED. COUNCIL ROOM CARD NOT DISCARDED\n");
+    G.deckCount[thisPlayer] = 6;
+
+    testG.hand[thisPlayer][0] = adventurer;
+    testG.hand[thisPlayer][1] = adventurer;
+
+    testG.handCount[thisPlayer] = 2;
+
+    G.hand[thisPlayer][0] = adventurer;
+    G.hand[thisPlayer][1] = adventurer;
+
+    G.handCount[thisPlayer] = 2;
+
+    memcpy(&testG, &G, sizeof(struct gameState));
+    playAdventurer(&testG, 0);
+
+    numToTreasure = 5;
+    newCards = 2;
+    printf("hand count = %d, expected = %d\n", testG.handCount[thisPlayer], G.handCount[thisPlayer] + newCards - discarded);
+    printf("deck count = %d, expected = %d\n", testG.deckCount[thisPlayer], G.deckCount[thisPlayer] - numToTreasure);
+
+    customAssert(testG.handCount[thisPlayer], G.handCount[thisPlayer] + newCards - discarded);
+    customAssert(testG.deckCount[thisPlayer], G.deckCount[thisPlayer] - numToTreasure);
+
+    printf("TEST 2: Drawing minimum number of cards for treasure \n");
+
+    testG.deck[thisPlayer][0] = silver;
+    testG.deck[thisPlayer][1] = silver;
+
+    testG.deckCount[thisPlayer] = 2;
+
+    G.deck[thisPlayer][0] = silver;
+    G.deck[thisPlayer][1] = silver;
+
+    G.deckCount[thisPlayer] = 2;
+
+    testG.hand[thisPlayer][0] = adventurer;
+
+    testG.handCount[thisPlayer] = 1;
+
+    G.hand[thisPlayer][0] = adventurer;
+
+    G.handCount[thisPlayer] = 1;
+
+    memcpy(&testG, &G, sizeof(struct gameState));
+    playAdventurer(&testG, 0);
+    numToTreasure = 2;
+
+    printf("hand count = %d, expected = %d\n", testG.handCount[thisPlayer], G.handCount[thisPlayer] + newCards - discarded);
+    printf("deck count = %d, expected = %d\n", testG.deckCount[thisPlayer], G.deckCount[thisPlayer] - numToTreasure);
+
+    customAssert(testG.handCount[thisPlayer], G.handCount[thisPlayer] + newCards - discarded);
+    customAssert(testG.deckCount[thisPlayer], G.deckCount[thisPlayer] - numToTreasure);
+
+    printf("TEST 3: Not enough treasures in deck \n");
+
+    testG.deck[thisPlayer][0] = silver;
+    testG.deckCount[thisPlayer] = 1;
+
+    G.deck[thisPlayer][0] = silver;
+    G.deckCount[thisPlayer] = 1;
+
+    testG.hand[thisPlayer][0] = adventurer;
+
+    testG.handCount[thisPlayer] = 1;
+
+    G.hand[thisPlayer][0] = adventurer;
+
+    G.handCount[thisPlayer] = 1;
+
+    memcpy(&testG, &G, sizeof(struct gameState));
+    playAdventurer(&testG, 0);
+
+    numToTreasure = 1;
+    newCards = 1;
+    printf("hand count = %d, expected = %d\n", testG.handCount[thisPlayer], G.handCount[thisPlayer] + newCards - discarded);
+    printf("deck count = %d, expected = %d\n", testG.deckCount[thisPlayer], G.deckCount[thisPlayer] - numToTreasure);
+
+    customAssert(testG.handCount[thisPlayer], G.handCount[thisPlayer] + newCards - discarded);
+    customAssert(testG.deckCount[thisPlayer], G.deckCount[thisPlayer] - numToTreasure);
 
 
-     printf("\n >>>>> SUCCESS: Testing complete %s <<<<<\n\n", TESTCARD);
+    printf("TEST 4: Other Players Unchanged \n");
 
-return 0;
-    
+    testG.deck[thisPlayer][0] = silver;
+    testG.deck[thisPlayer][1] = silver;
+
+    testG.deckCount[thisPlayer] = 2;
+
+    G.deck[thisPlayer][0] = silver;
+    G.deck[thisPlayer][1] = silver;
+
+    G.deckCount[thisPlayer] = 2;
+
+    testG.hand[thisPlayer][0] = adventurer;
+
+    testG.handCount[thisPlayer] = 1;
+
+    G.hand[thisPlayer][0] = adventurer;
+
+    G.handCount[thisPlayer] = 1;
+
+    memcpy(&testG, &G, sizeof(struct gameState));
+    playAdventurer(&testG, 0);
+
+
+    memcpy(&testG, &G, sizeof(struct gameState));
+
+    playVillage(&testG, 3);
+
+    printf("other player hand count = %d, expected = %d\n", testG.handCount[otherPlayer], G.handCount[otherPlayer]);
+    printf("other player deck count = %d, expected = %d\n", testG.deckCount[otherPlayer], G.deckCount[otherPlayer]);
+    printf("other player discard count = %d, expected = %d\n", testG.discardCount[otherPlayer], G.discardCount[otherPlayer]);
+
+    customAssert(testG.handCount[otherPlayer], G.handCount[otherPlayer]);
+    customAssert(testG.deckCount[otherPlayer], G.deckCount[otherPlayer]);
+    customAssert(testG.discardCount[otherPlayer], G.discardCount[otherPlayer]);
+
+    printf("TEST 5: Kingdom and Victory Cards unchanged \n");
+
+    memcpy(&testG, &G, sizeof(struct gameState));
+    playAdventurer(&testG, whoseTurn(&testG));
+
+    printf("estate unchanged test\n");
+    customAssert(testG.supplyCount[estate], G.supplyCount[estate]);
+    printf("duchy unchanged test\n");
+    customAssert(testG.supplyCount[duchy], G.supplyCount[duchy]);
+    printf("province unchanged test\n");
+    customAssert(testG.supplyCount[province], G.supplyCount[province]);
+    printf("gardens unchanged test\n");
+    customAssert(testG.supplyCount[gardens], G.supplyCount[gardens]);
+    printf("curse unchanged test\n");
+    customAssert(testG.supplyCount[curse], G.supplyCount[curse]);
+    printf("smithy unchanged test\n");
+    customAssert(testG.supplyCount[smithy], G.supplyCount[smithy]);
+    printf("adventurer unchanged test\n");
+    customAssert(testG.supplyCount[adventurer], G.supplyCount[adventurer]);
+    printf("embargo unchanged test\n");
+    customAssert(testG.supplyCount[embargo], G.supplyCount[embargo]);
+    printf("village unchanged test\n");
+    customAssert(testG.supplyCount[village], G.supplyCount[village]);
+    printf("minion unchanged test\n");
+    customAssert(testG.supplyCount[minion], G.supplyCount[minion]);
+    printf("mine unchanged test\n");
+    customAssert(testG.supplyCount[mine], G.supplyCount[mine]);
+    printf("cutpurse unchanged test\n");
+    customAssert(testG.supplyCount[cutpurse], G.supplyCount[cutpurse]);
+    printf("sea hag unchanged test\n");
+    customAssert(testG.supplyCount[sea_hag], G.supplyCount[sea_hag]);
+    printf("tribute unchanged test\n");
+    customAssert(testG.supplyCount[tribute], G.supplyCount[tribute]);
+    printf("council room unchanged test\n");
+    customAssert(testG.supplyCount[council_room], G.supplyCount[council_room]);
+
+    printf("\n >>>>> SUCCESS: Testing complete %s <<<<<\n\n", TESTCARD);
+
+    return 0;
 }

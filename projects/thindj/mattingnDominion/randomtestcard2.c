@@ -82,8 +82,6 @@ int customSmithyTest(int choice1, int choice2, int choice3, struct gameState *G,
             customAssert(testG.handCount[i], G->handCount[i] + newCards - discarded);
             customAssert(testG.deckCount[i], G->deckCount[i] - newCards + shuffledCards);
 
-
-
         }
     }
     return 0;

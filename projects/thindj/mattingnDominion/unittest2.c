@@ -50,7 +50,7 @@ int main () {
 
     // copy the game state to a test case
     memcpy(&testG, &G, sizeof(struct gameState));
-    smithyCard(&testG, whoseTurn(&testG), 9);
+    playSmithy(&testG, 9);
 
 
     newCards = 3;
@@ -79,7 +79,7 @@ int main () {
     printf("TEST 3: Kingdom and Victory Cards unchanged \n");
 
     memcpy(&testG, &G, sizeof(struct gameState));
-    smithyCard(&testG, whoseTurn(&testG), 3);
+    playSmithy(&testG, 3);
 
     printf("estate unchanged test\n");
     customAssert(testG.supplyCount[estate], G.supplyCount[estate]);

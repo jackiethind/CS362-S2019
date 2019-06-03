@@ -69,18 +69,37 @@ ctest3: cardtest3.c dominion.o rngs.o
 ctest4: cardtest4.c dominion.o rngs.o
 	gcc cardtest4.c dominion.c rngs.c -o cardtest4 $(CFLAGS)
 
-unittestresults: unittest1.c unittest2.c unittest3.c unittest4.c cardtest1.c cardtest2.c cardtest3.c cardtest4.c dominion.o rngs.o
-	./unittest1 > unittestresults.out
+
+
+
+unittestresults:
+	echo "Result for running dominion unit tests:" > unittestresults.out
+	echo "unittest1.c:" >> unittestresults.out
+	make utest1
+	./unittest1 >> unittestresults.out
+	gcov -fb dominion.c >> unittestresults.out
+
+	echo "unittest2.c:" >> unittestresults.out
+	make utest2
 	./unittest2 >> unittestresults.out
+	gcov -fb dominion.c >> unittestresults.out
+
+	echo "unittest3.c:" >> unittestresults.out
+	make utest3
 	./unittest3 >> unittestresults.out
-	./unittest4 >> unittestresults.out
-	./cardtest1 >> unittestresults.out
-	./cardtest2 >> unittestresults.out
+	gcov -fb dominion.c >> unittestresults.out
+
+	echo "cardtest3.c:" >> unittestresults.out
+	make ctest3
 	./cardtest3 >> unittestresults.out
+	gcov -fb dominion.c >> unittestresults.out
+
+	echo "cardtest4.c:" >> unittestresults.out
+	make ctest4
 	./cardtest4 >> unittestresults.out
-	gcov dominion.c >> unittestresults.out
-	cat dominion.c.gcov >> unittestresults.out
-	
+	gcov -fb dominion.c >> unittestresults.out
+
+
 player: player.c interface.o
 	gcc -o player player.c -g  dominion.o rngs.o interface.o $(CFLAGS)
 

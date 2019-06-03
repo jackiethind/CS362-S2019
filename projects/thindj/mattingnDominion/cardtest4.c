@@ -1,83 +1,71 @@
-/**********************************************************************************
- * *Name: Nikita Mattingly
- * *Date: May 5, 2019
- * *File: cardtest4.c (village)
- * *References: Used cardtest4.c and testUpdateCoins.c provided by the instructor
- * ********************************************************************************/ 
-
-
-#include "dominion.h"
+#include "assert.h"
 #include "dominion_helpers.h"
-#include <string.h>
+#include "dominion.h"
 #include <stdio.h>
-#include <assert.h>
 #include "rngs.h"
 #include <stdlib.h>
+#include <string.h>
 
-#define TESTCARD "VILLAGE"
+#define TESTCARD "smithy"
 
-int main()
+
+int customAssert(int actual, int expected)
 {
-    int handpos = 0, choice1 = 0, choice2 = 0, choice3 = 0, bonus = 0;
-    
-    //used to randomize the result for shuffling
-    int seed = 1000;
-    
-    //the number of players
-    int numPlayers = 2;
+    if (actual == expected) {
+        printf("TEST SUCCEEDED: actual: %d, expected: %d \n", actual, expected);
 
-    int thisPlayer = 0;
+    }
+    else {
+        printf("TEST FAILED: actual: %d, expected: %d \n", actual, expected);
+    }
+    return 0;
+}
 
-    //holds a pointer to the gameState variable, in this case we have G and testG
+int main(){
+
     struct gameState G, testG;
-
-    //an array k of 10 kingdom cards avaliable for purchase
-	int k[10] = {adventurer, embargo, village, minion, mine, cutpurse, sea_hag, tribute, smithy, council_room};
-
-    int temp; 
-
-    
+    int seed = 1000;
+    int numPlayers = 2;
+    int thisPlayer = 0;
+    int handPos = 0;
+    int returnValue = 0;
+    int k[10] = {smithy, adventurer, gardens, embargo, village, minion, mine, cutpurse,
+                 sea_hag, great_hall};
 
     // initialize a game state and player cards
-	initializeGame(numPlayers, k, seed, &G);
+    initializeGame(numPlayers, k, seed, &G);
 
     printf("----------------- Testing Card: %s ----------------\n", TESTCARD);
 
-    // copy the game state to a test case
-	memcpy(&testG, &G, sizeof(struct gameState));
-	choice1 = 1;
-	temp = numHandCards(&testG);
-    
-    //initializing cardEffect function for the village card
-    cardEffect(village, choice1, choice2, choice3, &testG, handpos, &bonus);
-    
-    thisPlayer = whoseTurn(&testG);
+    printf("TEST 1: handpos is out of bounds [NEGATIVE TEST]\n");
+    handPos = -1;
 
-    //Test 1: Testing to see if the player has the village card within their hand
-    if (G.hand[thisPlayer][testG.handCount[thisPlayer]] != 1)
-        printf("TEST 1 PASSED: THE PLAYER HAS THE VILLAGE CARD");
-    else
-        printf("TEST 1 FAILED: THE PLAYER DOES NOT HAVE THE VILLAGE CARD");
+    memcpy(&testG, &G, sizeof(struct gameState));
+    returnValue = playSmithy(&testG, 3);
+    ;
 
-    
-    //Test 2: Test to see if the player played the village card
-    if(testG.playedCardCount+2 == G.playedCardCount)
-        printf("TEST 2 PASSED: THE PLAYER PLAYED THE VILLAGE CARD");
-    else
-        printf("TEST 2 FAILED: THE PLAYER DID NOT PLAY THE VILLAGE CARD");
+    printf("return result = %d, expected = %d\n", returnValue, -1);
+    customAssert(returnValue, -1);
 
-    
-   
+    printf("TEST 2: card at handPos is not smithy [NEGATIVE TEST] \n");
+    testG.hand[thisPlayer][0] = G.hand[thisPlayer][0] = gardens;
+    testG.hand[thisPlayer][1] = G.hand[thisPlayer][1] = smithy;
 
-    //Test 4: Test to see if the village card is discarded from the hand
+    testG.handCount[thisPlayer] = G.handCount[thisPlayer] = 2;
 
-    if (testG.discardCount[thisPlayer] == G.discardCount[thisPlayer])
-        printf("TEST 4: PASSED. VILLAGE CARD WAS DISCARDED\n");
-    else
-        printf("TEST 4: FAILED. VILLAGE CARD NOT DISCARDED\n");
- 
- printf("\n >>>>> SUCCESS: Testing complete %s <<<<<\n\n", TESTCARD);
+    handPos = 0;
 
-return 0;
-   
+    printf("result = %d, expected = %d\n", testG.hand[thisPlayer][handPos], smithy);
+    customAssert(testG.hand[thisPlayer][handPos], smithy);
+
+    memcpy(&testG, &G, sizeof(struct gameState));
+    returnValue = playSmithy(&testG, 3);
+
+    printf("return result = %d, expected = %d\n", returnValue, -1);
+    customAssert(returnValue, -1);
+
+
+    printf("\n >>>>> SUCCESS: Testing complete %s <<<<<\n\n", TESTCARD);
+
+    return 0;
 }

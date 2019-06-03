@@ -51,7 +51,7 @@ int main () {
     printf("TEST 1: +2 actions \n");
 
     memcpy(&testG, &G, sizeof(struct gameState));
-    villageCard(&testG, whoseTurn(&testG), 3);
+    playVillage(&testG, 3);
 
     newActions = 2;
     printf("num of actions= %d, expected = %d\n", testG.numActions, G.numActions + newActions);
@@ -81,7 +81,7 @@ int main () {
     printf("TEST 4: Kingdom and Victory Cards unchanged \n");
 
     memcpy(&testG, &G, sizeof(struct gameState));
-    villageCard(&testG, whoseTurn(&testG), 3);
+    playVillage(&testG, 3);
 
     printf("estate unchanged test\n");
     customAssert(testG.supplyCount[estate], G.supplyCount[estate]);
