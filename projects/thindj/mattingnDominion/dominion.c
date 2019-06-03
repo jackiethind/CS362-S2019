@@ -1167,10 +1167,10 @@ int playSmithy(struct gameState *state, int handPos){
 	
 	int currentPlayer = whoseTurn(state);
 	int i;
-	int size = 4; //bug introduced changed int size = 3 to int size = 4
+	int size = 3; //FIXED: changed int size = 4 to int size = 3
 	
     //+3 Cards
-    for (i = 0; i < size; i--) //introducing bug, changing i++ to i--
+    for (i = 0; i < size; i++) //FIXED: changing i-- to i++
 	{
 	  drawCard(currentPlayer, state);
 	}
@@ -1188,7 +1188,7 @@ int playSmithy(struct gameState *state, int handPos){
 int playAdventurer (struct gameState *state, int handPos)
  {
 
- int drawntreasure = 1; // bug introduced: changed drawntreasure = 0 to drawntreasure = 1
+ int drawntreasure = 0; // FIXED: changed drawntreasure = 1 to drawntreasure = 0
  int currentPlayer = whoseTurn(state);
  int cardDrawn;
  int temphand[MAX_HAND];
@@ -1208,7 +1208,7 @@ while(drawntreasure<2)
 	cardDrawn = state->hand[currentPlayer][state->handCount[currentPlayer]-1];//top card of hand is most recently drawn card.
 	
 	if (cardDrawn == copper || cardDrawn == silver || cardDrawn == gold) 
-		drawntreasure--; //intorducing bug: changing drawntreasure++ to drawntreasure--
+		drawntreasure++; //FIXED: changing drawntreasure-- to drawntreasure++
 	else
 	{
 	  temphand[z]=cardDrawn;
@@ -1236,7 +1236,7 @@ int playCouncilRoom(struct gameState *state, int handPos)
       int i;
       int currentPlayer = whoseTurn(state);
 
-      for (i = 1; i < 4; i++) // bug introduced: changing i = 0 to i = 1
+      for (i = 0; i < 4; i++) // FIXED: changing i = 1 to i = 0
 	{
 	  drawCard(currentPlayer, state);
 	}
@@ -1292,7 +1292,7 @@ int playCouncilRoom(struct gameState *state, int handPos)
 
   	for (i = 0; i < state->numPlayers; i++)
   	{
-		if (i = currentPlayer) //introduced bug: changing i != currentPlayer to i = currentPlayer
+		if (i = currentPlayer)
 		{
 	  		state->discard[i][state->discardCount[i]] = state->deck[i][state->deckCount[i]--];			    
 	  		state->deckCount[i]--;
